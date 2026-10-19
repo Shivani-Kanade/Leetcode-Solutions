@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack",
+    "tagId": "61054"
+  },
+  "updatedAt": "2026-10-19T06:36:03.216Z",
+  "problems": [
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0402-remove-k-digits.java",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.java",
+          "sha": "c1a27caa715cb49b9550333557f66dc783ea43c4",
+          "lastSyncedAt": "2026-10-19T06:36:03.216Z"
+        }
+      ]
+    }
+  ]
+}
