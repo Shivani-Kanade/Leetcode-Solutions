@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-19T06:03:11.807Z",
+  "updatedAt": "2026-10-19T06:05:00.599Z",
   "problems": [
     {
       "frontendId": "2089",
@@ -23,7 +23,7 @@
           "filename": "2089-find-target-indices-after-sorting-array.java",
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
           "sha": "941d947ef280c07df8ea44140d0e763d387d5d17",
-          "lastSyncedAt": "2026-10-19T06:03:11.807Z"
+          "lastSyncedAt": "2026-10-19T06:05:00.599Z"
         }
       ]
     }
