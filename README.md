@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 8 | 3 | 4 | 1 |
+| 9 | 3 | 5 | 1 |
 
 ## Activity
 
@@ -19,28 +19,28 @@ Contains topicwise list of solved problems.
 | 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 2 |
-| 2026-10-20 | 3 |
+| 2026-10-20 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 3 | 38% |
-| Math | 3 | 38% |
-| String | 3 | 38% |
-| Greedy | 2 | 25% |
-| Hash Table | 2 | 25% |
-| Queue | 2 | 25% |
-| Binary Search | 1 | 13% |
-| Heap (Priority Queue) | 1 | 13% |
-| Linked List | 1 | 13% |
-| Monotonic Queue | 1 | 13% |
+| Array | 4 | 44% |
+| Math | 3 | 33% |
+| Queue | 3 | 33% |
+| String | 3 | 33% |
+| Greedy | 2 | 22% |
+| Hash Table | 2 | 22% |
+| Sorting | 2 | 22% |
+| Binary Search | 1 | 11% |
+| Heap (Priority Queue) | 1 | 11% |
+| Linked List | 1 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 2 |
@@ -50,10 +50,11 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Queue](Topics/queue/) | 2 |
+| [Queue](Topics/queue/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 3 |
 <!---LeetHub Summary End-->
