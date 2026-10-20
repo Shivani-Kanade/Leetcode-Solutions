@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-20T05:38:26.856Z",
+  "updatedAt": "2026-10-20T05:39:09.313Z",
   "problems": [
     {
       "frontendId": "2807",
@@ -23,7 +23,7 @@
           "filename": "2807-insert-greatest-common-divisors-in-linked-list.java",
           "path": "2807-insert-greatest-common-divisors-in-linked-list/2807-insert-greatest-common-divisors-in-linked-list.java",
           "sha": "278591b51f3e658f9c963d1c9d7d210cd63de129",
-          "lastSyncedAt": "2026-10-20T05:38:26.856Z"
+          "lastSyncedAt": "2026-10-20T05:39:09.313Z"
         }
       ]
     }
