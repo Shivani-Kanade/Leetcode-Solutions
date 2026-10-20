@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-19T06:36:03.216Z",
+  "updatedAt": "2026-10-20T13:21:47.770Z",
   "problems": [
     {
       "frontendId": "12",
@@ -44,6 +44,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "c1a27caa715cb49b9550333557f66dc783ea43c4",
           "lastSyncedAt": "2026-10-19T06:36:03.216Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "649",
+      "title": "Dota2 Senate",
+      "slug": "dota2-senate",
+      "problemName": "0649-dota2-senate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/dota2-senate/",
+      "folderPath": "0649-dota2-senate/",
+      "readmePath": "0649-dota2-senate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0649-dota2-senate.java",
+          "path": "0649-dota2-senate/0649-dota2-senate.java",
+          "sha": "9c304811ac4e2f1bfa5fb58360f665a9cbf32ba8",
+          "lastSyncedAt": "2026-10-20T13:21:47.770Z"
         }
       ]
     }
