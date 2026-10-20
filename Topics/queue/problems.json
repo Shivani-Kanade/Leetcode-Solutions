@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-10-20T13:21:47.770Z",
+  "updatedAt": "2026-10-20T13:35:23.577Z",
   "problems": [
     {
       "frontendId": "239",
@@ -44,6 +44,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "9c304811ac4e2f1bfa5fb58360f665a9cbf32ba8",
           "lastSyncedAt": "2026-10-20T13:21:47.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "950",
+      "title": "Reveal Cards In Increasing Order",
+      "slug": "reveal-cards-in-increasing-order",
+      "problemName": "0950-reveal-cards-in-increasing-order",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order/",
+      "folderPath": "0950-reveal-cards-in-increasing-order/",
+      "readmePath": "0950-reveal-cards-in-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0950-reveal-cards-in-increasing-order.java",
+          "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.java",
+          "sha": "089f4e44668efe7721c00cf206c378d36bc87b02",
+          "lastSyncedAt": "2026-10-20T13:35:23.577Z"
         }
       ]
     }
