@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T13:06:53.025Z",
+  "updatedAt": "2026-10-20T13:35:23.577Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "7c7c332549a4b32860d3eaa3e0f7a417ce74a963",
           "lastSyncedAt": "2026-10-20T13:06:53.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "950",
+      "title": "Reveal Cards In Increasing Order",
+      "slug": "reveal-cards-in-increasing-order",
+      "problemName": "0950-reveal-cards-in-increasing-order",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order/",
+      "folderPath": "0950-reveal-cards-in-increasing-order/",
+      "readmePath": "0950-reveal-cards-in-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0950-reveal-cards-in-increasing-order.java",
+          "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.java",
+          "sha": "089f4e44668efe7721c00cf206c378d36bc87b02",
+          "lastSyncedAt": "2026-10-20T13:35:23.577Z"
         }
       ]
     },
