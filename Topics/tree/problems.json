@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-22T10:33:47.586Z",
+  "updatedAt": "2026-10-22T10:53:00.556Z",
   "problems": [
     {
       "frontendId": "94",
@@ -24,6 +24,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "a61ca141ab6ec79b20eba1e2a38785943df2239d",
           "lastSyncedAt": "2026-10-22T10:03:32.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0100-same-tree.java",
+          "path": "0100-same-tree/0100-same-tree.java",
+          "sha": "39fb18807bc78acecfefb1ffc991c0e9a5123d94",
+          "lastSyncedAt": "2026-10-22T10:53:00.556Z"
         }
       ]
     },
