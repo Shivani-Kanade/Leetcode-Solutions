@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-22T09:58:05.800Z",
+  "updatedAt": "2026-10-22T09:58:06.946Z",
   "problems": [
     {
       "frontendId": "144",
@@ -23,7 +23,7 @@
           "filename": "0144-binary-tree-preorder-traversal.java",
           "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.java",
           "sha": "723c42c26836a2be9371f24b05caa5671e5f853e",
-          "lastSyncedAt": "2026-10-22T09:58:05.800Z"
+          "lastSyncedAt": "2026-10-22T09:58:06.946Z"
         }
       ]
     }
