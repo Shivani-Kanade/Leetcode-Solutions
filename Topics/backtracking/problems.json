@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-27T15:26:27.641Z",
+  "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0037-sudoku-solver.java",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.java",
+          "sha": "18fa3b8fdc0e5ad8e21f7ceccdae827d6027ec34",
+          "lastSyncedAt": "2026-10-27T15:26:27.641Z"
+        }
+      ]
+    }
+  ]
+}
