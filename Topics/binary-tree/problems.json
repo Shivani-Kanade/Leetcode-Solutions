@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-01T10:06:17.186Z",
+  "updatedAt": "2026-11-01T10:07:02.760Z",
   "problems": [
     {
       "frontendId": "94",
@@ -123,7 +123,7 @@
           "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
           "sha": "ff71ba5f4afb93273884ccc1d9a17761f95e1cdd",
-          "lastSyncedAt": "2026-11-01T10:06:17.186Z"
+          "lastSyncedAt": "2026-11-01T10:07:02.760Z"
         }
       ]
     },
