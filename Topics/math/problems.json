@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-20T05:40:03.354Z",
+  "updatedAt": "2026-11-01T09:00:08.885Z",
   "problems": [
     {
       "frontendId": "9",
@@ -44,6 +44,26 @@
           "path": "0012-integer-to-roman/0012-integer-to-roman.java",
           "sha": "ac6af4d586e8195bad50ab5cee5a59845418499a",
           "lastSyncedAt": "2026-10-18T08:42:23.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "problemName": "0453-minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+      "folderPath": "0453-minimum-moves-to-equal-array-elements/",
+      "readmePath": "0453-minimum-moves-to-equal-array-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0453-minimum-moves-to-equal-array-elements.java",
+          "path": "0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.java",
+          "sha": "32d4043bb14f0425bbdfceac9211082980a64013",
+          "lastSyncedAt": "2026-11-01T09:00:08.885Z"
         }
       ]
     },
