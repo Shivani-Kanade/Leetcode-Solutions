@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 11 | 9 | 2 |
+| 23 | 12 | 9 | 2 |
 
 ## Activity
 
@@ -24,22 +24,22 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 2 |
 | 2026-10-27 | 2 |
 | 2026-10-31 | 2 |
-| 2026-11-01 | 1 |
+| 2026-11-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 10 | 45% |
-| Tree | 10 | 45% |
-| Depth-First Search | 8 | 36% |
-| Array | 6 | 27% |
-| Breadth-First Search | 6 | 27% |
-| Math | 4 | 18% |
-| Stack | 4 | 18% |
-| Hash Table | 3 | 14% |
-| Queue | 3 | 14% |
-| String | 3 | 14% |
+| Binary Tree | 11 | 48% |
+| Tree | 11 | 48% |
+| Depth-First Search | 9 | 39% |
+| Array | 6 | 26% |
+| Breadth-First Search | 6 | 26% |
+| Math | 4 | 17% |
+| Stack | 4 | 17% |
+| Hash Table | 3 | 13% |
+| Queue | 3 | 13% |
+| String | 3 | 13% |
 
 ## Topics
 
@@ -49,10 +49,11 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 6 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 10 |
+| [Binary Tree](Topics/binary-tree/) | 11 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 8 |
+| [Depth-First Search](Topics/depth-first-search/) | 9 |
+| [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
@@ -69,5 +70,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 3 |
-| [Tree](Topics/tree/) | 10 |
+| [Tree](Topics/tree/) | 11 |
 <!---LeetHub Summary End-->
