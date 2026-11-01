@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-01T09:07:38.749Z",
+  "updatedAt": "2026-11-01T09:29:19.794Z",
   "problems": [
     {
       "frontendId": "94",
@@ -124,6 +124,26 @@
           "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.java",
           "sha": "02946819cc212c7ee6c85d228b318461b9c25ee5",
           "lastSyncedAt": "2026-10-31T15:28:28.098Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "problemName": "0113-path-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+      "folderPath": "0113-path-sum-ii/",
+      "readmePath": "0113-path-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0113-path-sum-ii.java",
+          "path": "0113-path-sum-ii/0113-path-sum-ii.java",
+          "sha": "ba398a3a53b8bbb892ba8770881c301e5b68b56b",
+          "lastSyncedAt": "2026-11-01T09:29:19.794Z"
         }
       ]
     },
