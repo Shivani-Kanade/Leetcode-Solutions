@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 11 | 8 | 2 |
+| 22 | 11 | 9 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 9 |
+| 2 days | 4 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,19 +24,20 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 2 |
 | 2026-10-27 | 2 |
 | 2026-10-31 | 2 |
+| 2026-11-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 10 | 48% |
-| Tree | 10 | 48% |
-| Depth-First Search | 8 | 38% |
-| Breadth-First Search | 6 | 29% |
-| Array | 5 | 24% |
-| Stack | 4 | 19% |
+| Binary Tree | 10 | 45% |
+| Tree | 10 | 45% |
+| Depth-First Search | 8 | 36% |
+| Array | 6 | 27% |
+| Breadth-First Search | 6 | 27% |
+| Math | 4 | 18% |
+| Stack | 4 | 18% |
 | Hash Table | 3 | 14% |
-| Math | 3 | 14% |
 | Queue | 3 | 14% |
 | String | 3 | 14% |
 
@@ -45,7 +46,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 10 |
@@ -56,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
