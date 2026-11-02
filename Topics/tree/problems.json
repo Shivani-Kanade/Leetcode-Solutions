@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-02T15:04:21.278Z",
+  "updatedAt": "2026-11-02T15:06:03.740Z",
   "problems": [
     {
       "frontendId": "94",
@@ -323,7 +323,7 @@
           "filename": "0938-range-sum-of-bst.java",
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
           "sha": "de7ebb8e80b831ed6358f4d0d13c126485964b3e",
-          "lastSyncedAt": "2026-11-02T15:04:21.278Z"
+          "lastSyncedAt": "2026-11-02T15:06:03.740Z"
         }
       ]
     }
