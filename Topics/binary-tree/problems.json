@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-02T15:06:03.740Z",
+  "updatedAt": "2026-11-02T15:33:09.863Z",
   "problems": [
     {
       "frontendId": "94",
@@ -304,6 +304,26 @@
           "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
           "sha": "e2cd8ab646b298d8ed366023bf0aa35baf78aa2b",
           "lastSyncedAt": "2026-11-02T14:53:24.083Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "701",
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "problemName": "0701-insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "folderPath": "0701-insert-into-a-binary-search-tree/",
+      "readmePath": "0701-insert-into-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0701-insert-into-a-binary-search-tree.java",
+          "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.java",
+          "sha": "58229b1ca2861392bc300f5ce76fb2243365c19a",
+          "lastSyncedAt": "2026-11-02T15:33:09.863Z"
         }
       ]
     },
