@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 14 | 15 | 2 |
+| 32 | 14 | 16 | 2 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-10-31 | 2 |
 | 2026-11-01 | 5 |
 | 2026-11-02 | 4 |
-| 2026-11-03 | 1 |
+| 2026-11-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 19 | 61% |
-| Tree | 19 | 61% |
-| Depth-First Search | 14 | 45% |
-| Array | 7 | 23% |
+| Binary Tree | 20 | 63% |
+| Tree | 20 | 63% |
+| Depth-First Search | 15 | 47% |
+| Array | 7 | 22% |
+| Binary Search Tree | 6 | 19% |
 | Breadth-First Search | 6 | 19% |
-| Binary Search Tree | 5 | 16% |
 | Hash Table | 4 | 13% |
 | Math | 4 | 13% |
 | Stack | 4 | 13% |
-| Queue | 3 | 10% |
+| Queue | 3 | 9% |
 
 ## Topics
 
@@ -50,18 +50,20 @@ Contains topicwise list of solved problems.
 | [Algorithm X](Topics/algorithm-x/) | 1 |
 | [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 2 |
+| [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 5 |
-| [Binary Tree](Topics/binary-tree/) | 19 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 6 |
+| [Binary Tree](Topics/binary-tree/) | 20 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 14 |
+| [Depth-First Search](Topics/depth-first-search/) | 15 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
+| [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -74,5 +76,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 3 |
-| [Tree](Topics/tree/) | 19 |
+| [Tree](Topics/tree/) | 20 |
 <!---LeetHub Summary End-->
