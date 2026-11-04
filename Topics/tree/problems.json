@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T09:56:32.656Z",
+  "updatedAt": "2026-11-04T10:07:01.584Z",
   "problems": [
     {
       "frontendId": "94",
@@ -404,6 +404,26 @@
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
           "sha": "de7ebb8e80b831ed6358f4d0d13c126485964b3e",
           "lastSyncedAt": "2026-11-02T15:06:03.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1038",
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "slug": "binary-search-tree-to-greater-sum-tree",
+      "problemName": "1038-binary-search-tree-to-greater-sum-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/",
+      "folderPath": "1038-binary-search-tree-to-greater-sum-tree/",
+      "readmePath": "1038-binary-search-tree-to-greater-sum-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1038-binary-search-tree-to-greater-sum-tree.java",
+          "path": "1038-binary-search-tree-to-greater-sum-tree/1038-binary-search-tree-to-greater-sum-tree.java",
+          "sha": "4682963a2639c72c405aa545ecde51ab5e4bd292",
+          "lastSyncedAt": "2026-11-04T10:07:01.584Z"
         }
       ]
     }
