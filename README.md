@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 15 | 17 | 2 |
+| 35 | 15 | 18 | 2 |
 
 ## Activity
 
@@ -27,22 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 5 |
 | 2026-11-02 | 4 |
 | 2026-11-03 | 2 |
-| 2026-11-04 | 2 |
+| 2026-11-04 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 22 | 65% |
-| Tree | 22 | 65% |
-| Depth-First Search | 16 | 47% |
-| Array | 8 | 24% |
-| Binary Search Tree | 8 | 24% |
-| Breadth-First Search | 6 | 18% |
-| Hash Table | 4 | 12% |
-| Math | 4 | 12% |
-| Stack | 4 | 12% |
-| Queue | 3 | 9% |
+| Binary Tree | 23 | 66% |
+| Tree | 23 | 66% |
+| Depth-First Search | 17 | 49% |
+| Binary Search Tree | 9 | 26% |
+| Array | 8 | 23% |
+| Breadth-First Search | 6 | 17% |
+| Hash Table | 4 | 11% |
+| Math | 4 | 11% |
+| Stack | 4 | 11% |
+| Divide and Conquer | 3 | 9% |
 
 ## Topics
 
@@ -53,14 +53,14 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 22 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 9 |
+| [Binary Tree](Topics/binary-tree/) | 23 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 16 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 17 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -77,5 +77,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 3 |
-| [Tree](Topics/tree/) | 22 |
+| [Tree](Topics/tree/) | 23 |
 <!---LeetHub Summary End-->
