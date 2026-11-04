@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-03T16:05:45.354Z",
+  "updatedAt": "2026-11-04T09:56:32.656Z",
   "problems": [
     {
       "frontendId": "94",
@@ -303,7 +303,7 @@
           "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.java",
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.java",
           "sha": "f12f8aebac7adcb8d689c3e19fcebaed1c3a0671",
-          "lastSyncedAt": "2026-11-03T16:05:45.354Z"
+          "lastSyncedAt": "2026-11-04T09:56:32.656Z"
         }
       ]
     },
