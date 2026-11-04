@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T10:46:47.667Z",
+  "updatedAt": "2026-11-04T11:26:36.967Z",
   "problems": [
     {
       "frontendId": "94",
@@ -344,6 +344,26 @@
           "path": "0437-path-sum-iii/0437-path-sum-iii.java",
           "sha": "469b175a56dd8598f515a2e2f6c58f5941461435",
           "lastSyncedAt": "2026-11-01T09:47:02.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "problemName": "0450-delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "folderPath": "0450-delete-node-in-a-bst/",
+      "readmePath": "0450-delete-node-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0450-delete-node-in-a-bst.java",
+          "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.java",
+          "sha": "05c14f13472b7548598b02c8ef9fed1a88710adb",
+          "lastSyncedAt": "2026-11-04T11:26:36.967Z"
         }
       ]
     },
