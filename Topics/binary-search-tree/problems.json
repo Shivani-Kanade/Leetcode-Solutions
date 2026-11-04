@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-11-04T10:39:50.356Z",
+  "updatedAt": "2026-11-04T10:46:47.667Z",
   "problems": [
     {
       "frontendId": "98",
@@ -164,6 +164,26 @@
           "path": "1038-binary-search-tree-to-greater-sum-tree/1038-binary-search-tree-to-greater-sum-tree.java",
           "sha": "4682963a2639c72c405aa545ecde51ab5e4bd292",
           "lastSyncedAt": "2026-11-04T10:07:01.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1382-balance-a-binary-search-tree.java",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.java",
+          "sha": "3f218e2a02869dc4aff886515270c6891f626af1",
+          "lastSyncedAt": "2026-11-04T10:46:47.667Z"
         }
       ]
     }
