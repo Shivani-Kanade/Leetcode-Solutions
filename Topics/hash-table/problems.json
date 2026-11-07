@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T15:29:30.950Z",
+  "updatedAt": "2026-11-07T15:42:29.210Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "2442-count-number-of-distinct-integers-after-reverse-operations/2442-count-number-of-distinct-integers-after-reverse-operations.java",
           "sha": "593244f9e39ffece42e81fe9af52bff414f0f22a",
           "lastSyncedAt": "2026-11-07T15:29:30.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2744",
+      "title": "Find Maximum Number of String Pairs",
+      "slug": "find-maximum-number-of-string-pairs",
+      "problemName": "2744-find-maximum-number-of-string-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-maximum-number-of-string-pairs/",
+      "folderPath": "2744-find-maximum-number-of-string-pairs/",
+      "readmePath": "2744-find-maximum-number-of-string-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2744-find-maximum-number-of-string-pairs.java",
+          "path": "2744-find-maximum-number-of-string-pairs/2744-find-maximum-number-of-string-pairs.java",
+          "sha": "bf324939807ed864bdd9728b66de4cf348844cf1",
+          "lastSyncedAt": "2026-11-07T15:42:29.210Z"
         }
       ]
     }
