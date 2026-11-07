@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 15 | 21 | 2 |
+| 39 | 16 | 21 | 2 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 4 |
 | 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
-| 2026-11-07 | 1 |
+| 2026-11-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 66% |
-| Tree | 25 | 66% |
-| Depth-First Search | 18 | 47% |
+| Binary Tree | 25 | 64% |
+| Tree | 25 | 64% |
+| Depth-First Search | 18 | 46% |
+| Array | 10 | 26% |
 | Binary Search Tree | 10 | 26% |
-| Array | 9 | 24% |
-| Breadth-First Search | 6 | 16% |
-| Hash Table | 5 | 13% |
+| Breadth-First Search | 6 | 15% |
+| Hash Table | 6 | 15% |
 | Math | 5 | 13% |
 | Stack | 5 | 13% |
-| Divide and Conquer | 3 | 8% |
+| String | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -74,10 +74,10 @@ Contains topicwise list of solved problems.
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Queue](Topics/queue/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Tree](Topics/tree/) | 25 |
 <!---LeetHub Summary End-->
