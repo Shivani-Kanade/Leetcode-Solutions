@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T10:39:50.356Z",
+  "updatedAt": "2026-11-07T15:27:12.626Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
           "sha": "941d947ef280c07df8ea44140d0e763d387d5d17",
           "lastSyncedAt": "2026-10-19T06:05:00.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2442",
+      "title": "Count Number of Distinct Integers After Reverse Operations",
+      "slug": "count-number-of-distinct-integers-after-reverse-operations",
+      "problemName": "2442-count-number-of-distinct-integers-after-reverse-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/",
+      "folderPath": "2442-count-number-of-distinct-integers-after-reverse-operations/",
+      "readmePath": "2442-count-number-of-distinct-integers-after-reverse-operations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2442-count-number-of-distinct-integers-after-reverse-operations.java",
+          "path": "2442-count-number-of-distinct-integers-after-reverse-operations/2442-count-number-of-distinct-integers-after-reverse-operations.java",
+          "sha": "593244f9e39ffece42e81fe9af52bff414f0f22a",
+          "lastSyncedAt": "2026-11-07T15:27:12.626Z"
         }
       ]
     }
