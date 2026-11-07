@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T13:35:23.577Z",
+  "updatedAt": "2026-11-07T16:14:18.919Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "22c064cc64ddbc94caefa63f9b88de1b716c674d",
+          "lastSyncedAt": "2026-11-07T16:14:18.919Z"
+        }
+      ]
+    },
     {
       "frontendId": "950",
       "title": "Reveal Cards In Increasing Order",
