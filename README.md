@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 16 | 21 | 2 |
+| 40 | 17 | 21 | 2 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 4 |
 | 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
-| 2026-11-07 | 2 |
+| 2026-11-07 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 64% |
-| Tree | 25 | 64% |
-| Depth-First Search | 18 | 46% |
-| Array | 10 | 26% |
-| Binary Search Tree | 10 | 26% |
+| Binary Tree | 25 | 63% |
+| Tree | 25 | 63% |
+| Depth-First Search | 18 | 45% |
+| Array | 10 | 25% |
+| Binary Search Tree | 10 | 25% |
+| Hash Table | 7 | 18% |
 | Breadth-First Search | 6 | 15% |
-| Hash Table | 6 | 15% |
 | Math | 5 | 13% |
 | Stack | 5 | 13% |
-| String | 4 | 10% |
+| String | 5 | 13% |
 
 ## Topics
 
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -76,8 +76,8 @@ Contains topicwise list of solved problems.
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Tree](Topics/tree/) | 25 |
 <!---LeetHub Summary End-->
