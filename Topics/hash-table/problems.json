@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T16:25:53.104Z",
+  "updatedAt": "2026-11-09T06:12:26.764Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "22c064cc64ddbc94caefa63f9b88de1b716c674d",
           "lastSyncedAt": "2026-11-07T16:14:52.216Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "1207-unique-number-of-occurrences/",
+      "readmePath": "1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1207-unique-number-of-occurrences.java",
+          "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.java",
+          "sha": "c95ecdade6c5678ccc66273715db1eeabe3fe2a7",
+          "lastSyncedAt": "2026-11-09T06:12:26.764Z"
         }
       ]
     },
