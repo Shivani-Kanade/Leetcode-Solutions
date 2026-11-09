@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T16:25:53.104Z",
+  "updatedAt": "2026-11-09T06:12:26.764Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.java",
           "sha": "089f4e44668efe7721c00cf206c378d36bc87b02",
           "lastSyncedAt": "2026-10-20T13:35:23.577Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "1207-unique-number-of-occurrences/",
+      "readmePath": "1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1207-unique-number-of-occurrences.java",
+          "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.java",
+          "sha": "c95ecdade6c5678ccc66273715db1eeabe3fe2a7",
+          "lastSyncedAt": "2026-11-09T06:12:26.764Z"
         }
       ]
     },
