@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T15:29:30.950Z",
+  "updatedAt": "2026-11-09T08:52:34.369Z",
   "problems": [
     {
       "frontendId": "9",
@@ -64,6 +64,26 @@
           "path": "0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.java",
           "sha": "32d4043bb14f0425bbdfceac9211082980a64013",
           "lastSyncedAt": "2026-11-01T09:00:08.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1814",
+      "title": "Count Nice Pairs in an Array",
+      "slug": "count-nice-pairs-in-an-array",
+      "problemName": "1814-count-nice-pairs-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-nice-pairs-in-an-array/",
+      "folderPath": "1814-count-nice-pairs-in-an-array/",
+      "readmePath": "1814-count-nice-pairs-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1814-count-nice-pairs-in-an-array.java",
+          "path": "1814-count-nice-pairs-in-an-array/1814-count-nice-pairs-in-an-array.java",
+          "sha": "bef0bcd89f7ec749070459fae88178dc6b8a5738",
+          "lastSyncedAt": "2026-11-09T08:52:34.369Z"
         }
       ]
     },
