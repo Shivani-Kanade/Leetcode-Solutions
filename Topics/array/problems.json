@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-09T06:52:35.256Z",
+  "updatedAt": "2026-11-09T08:12:31.558Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.java",
           "sha": "c95ecdade6c5678ccc66273715db1eeabe3fe2a7",
           "lastSyncedAt": "2026-11-09T06:13:04.452Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1497",
+      "title": "Check If Array Pairs Are Divisible by k",
+      "slug": "check-if-array-pairs-are-divisible-by-k",
+      "problemName": "1497-check-if-array-pairs-are-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/",
+      "folderPath": "1497-check-if-array-pairs-are-divisible-by-k/",
+      "readmePath": "1497-check-if-array-pairs-are-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1497-check-if-array-pairs-are-divisible-by-k.java",
+          "path": "1497-check-if-array-pairs-are-divisible-by-k/1497-check-if-array-pairs-are-divisible-by-k.java",
+          "sha": "7c671f1bb424ee133ba8a9a0db3a261eeb7e211f",
+          "lastSyncedAt": "2026-11-09T08:12:31.558Z"
         }
       ]
     },
