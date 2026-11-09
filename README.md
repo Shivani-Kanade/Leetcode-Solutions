@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 17 | 21 | 2 |
+| 41 | 18 | 21 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 14 |
+| 1 days | 5 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-21 | 1 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 2 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 63% |
-| Tree | 25 | 63% |
-| Depth-First Search | 18 | 45% |
-| Array | 10 | 25% |
-| Binary Search Tree | 10 | 25% |
-| Hash Table | 7 | 18% |
+| Binary Tree | 25 | 61% |
+| Tree | 25 | 61% |
+| Depth-First Search | 18 | 44% |
+| Array | 11 | 27% |
+| Binary Search Tree | 10 | 24% |
+| Hash Table | 8 | 20% |
 | Breadth-First Search | 6 | 15% |
-| Math | 5 | 13% |
-| Stack | 5 | 13% |
-| String | 5 | 13% |
+| Math | 5 | 12% |
+| Stack | 5 | 12% |
+| String | 5 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
