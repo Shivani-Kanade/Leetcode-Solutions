@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-09T08:52:34.369Z",
+  "updatedAt": "2026-11-09T08:53:37.678Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,7 +203,7 @@
           "filename": "1814-count-nice-pairs-in-an-array.java",
           "path": "1814-count-nice-pairs-in-an-array/1814-count-nice-pairs-in-an-array.java",
           "sha": "bef0bcd89f7ec749070459fae88178dc6b8a5738",
-          "lastSyncedAt": "2026-11-09T08:52:34.369Z"
+          "lastSyncedAt": "2026-11-09T08:53:37.678Z"
         }
       ]
     },
