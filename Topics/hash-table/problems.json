@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-09T08:13:18.686Z",
+  "updatedAt": "2026-11-09T08:52:34.369Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "1497-check-if-array-pairs-are-divisible-by-k/1497-check-if-array-pairs-are-divisible-by-k.java",
           "sha": "7c671f1bb424ee133ba8a9a0db3a261eeb7e211f",
           "lastSyncedAt": "2026-11-09T08:13:18.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1814",
+      "title": "Count Nice Pairs in an Array",
+      "slug": "count-nice-pairs-in-an-array",
+      "problemName": "1814-count-nice-pairs-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-nice-pairs-in-an-array/",
+      "folderPath": "1814-count-nice-pairs-in-an-array/",
+      "readmePath": "1814-count-nice-pairs-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1814-count-nice-pairs-in-an-array.java",
+          "path": "1814-count-nice-pairs-in-an-array/1814-count-nice-pairs-in-an-array.java",
+          "sha": "bef0bcd89f7ec749070459fae88178dc6b8a5738",
+          "lastSyncedAt": "2026-11-09T08:52:34.369Z"
         }
       ]
     },
