@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-07T16:14:52.216Z",
+  "updatedAt": "2026-11-09T06:44:51.260Z",
   "problems": [
     {
       "frontendId": "242",
@@ -64,6 +64,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
           "sha": "941d947ef280c07df8ea44140d0e763d387d5d17",
           "lastSyncedAt": "2026-10-19T06:05:00.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2094",
+      "title": "Finding 3-Digit Even Numbers",
+      "slug": "finding-3-digit-even-numbers",
+      "problemName": "2094-finding-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+      "folderPath": "2094-finding-3-digit-even-numbers/",
+      "readmePath": "2094-finding-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2094-finding-3-digit-even-numbers.java",
+          "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.java",
+          "sha": "769c043109654877be7ebaea3e5f629c1a99fd09",
+          "lastSyncedAt": "2026-11-09T06:44:51.260Z"
         }
       ]
     }
