@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 19 | 23 | 2 |
+| 45 | 19 | 24 | 2 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
-| 2026-11-09 | 4 |
+| 2026-11-09 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 57% |
-| Tree | 25 | 57% |
-| Depth-First Search | 18 | 41% |
-| Array | 13 | 30% |
-| Hash Table | 11 | 25% |
-| Binary Search Tree | 10 | 23% |
-| Breadth-First Search | 6 | 14% |
-| String | 6 | 14% |
-| Math | 5 | 11% |
+| Binary Tree | 25 | 56% |
+| Tree | 25 | 56% |
+| Depth-First Search | 18 | 40% |
+| Array | 14 | 31% |
+| Hash Table | 12 | 27% |
+| Binary Search Tree | 10 | 22% |
+| Breadth-First Search | 6 | 13% |
+| Math | 6 | 13% |
+| String | 6 | 13% |
 | Stack | 5 | 11% |
 
 ## Topics
@@ -50,25 +50,25 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 18 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
