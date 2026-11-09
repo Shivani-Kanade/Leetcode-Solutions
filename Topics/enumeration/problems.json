@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration",
+    "tagId": "61066"
+  },
+  "updatedAt": "2026-11-09T06:44:51.260Z",
+  "problems": [
+    {
+      "frontendId": "2094",
+      "title": "Finding 3-Digit Even Numbers",
+      "slug": "finding-3-digit-even-numbers",
+      "problemName": "2094-finding-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+      "folderPath": "2094-finding-3-digit-even-numbers/",
+      "readmePath": "2094-finding-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2094-finding-3-digit-even-numbers.java",
+          "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.java",
+          "sha": "769c043109654877be7ebaea3e5f629c1a99fd09",
+          "lastSyncedAt": "2026-11-09T06:44:51.260Z"
+        }
+      ]
+    }
+  ]
+}
