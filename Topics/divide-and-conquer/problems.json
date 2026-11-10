@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-10T09:15:11.460Z",
+  "updatedAt": "2026-11-10T09:55:02.426Z",
   "problems": [
     {
       "frontendId": "105",
@@ -44,6 +44,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "adc6356ae40c17d67b1eb57bacea2cff0b84f989",
           "lastSyncedAt": "2026-11-10T06:44:52.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0347-top-k-frequent-elements.java",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
+          "sha": "f2cc206b7fa2028830448cf1bffe4b487307fb06",
+          "lastSyncedAt": "2026-11-10T09:55:02.426Z"
         }
       ]
     },
