@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 19 | 24 | 2 |
+| 46 | 19 | 25 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 15 |
+| 2 days | 5 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 2 |
 | 2026-10-20 | 4 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
+| 2026-11-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 56% |
-| Tree | 25 | 56% |
-| Depth-First Search | 18 | 40% |
-| Array | 14 | 31% |
-| Hash Table | 12 | 27% |
+| Binary Tree | 25 | 54% |
+| Tree | 25 | 54% |
+| Depth-First Search | 18 | 39% |
+| Array | 14 | 30% |
+| Hash Table | 13 | 28% |
 | Binary Search Tree | 10 | 22% |
 | Breadth-First Search | 6 | 13% |
 | Math | 6 | 13% |
@@ -64,9 +64,9 @@ Contains topicwise list of solved problems.
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 2 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 1 |
