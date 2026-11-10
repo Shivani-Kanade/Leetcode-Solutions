@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-09T07:35:35.699Z",
+  "updatedAt": "2026-11-10T06:12:24.135Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "9c304811ac4e2f1bfa5fb58360f665a9cbf32ba8",
           "lastSyncedAt": "2026-10-20T13:21:47.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "problemName": "1930-unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+      "folderPath": "1930-unique-length-3-palindromic-subsequences/",
+      "readmePath": "1930-unique-length-3-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1930-unique-length-3-palindromic-subsequences.java",
+          "path": "1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.java",
+          "sha": "dd24dde2e55769c3a2ee5a96067a6fb99c4c8add",
+          "lastSyncedAt": "2026-11-10T06:12:24.135Z"
         }
       ]
     },
