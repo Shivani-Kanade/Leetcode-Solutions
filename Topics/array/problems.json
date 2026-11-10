@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T09:15:11.460Z",
+  "updatedAt": "2026-11-10T09:29:27.982Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.java",
           "sha": "32d4043bb14f0425bbdfceac9211082980a64013",
           "lastSyncedAt": "2026-11-01T09:00:08.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "0658-find-k-closest-elements/",
+      "readmePath": "0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0658-find-k-closest-elements.java",
+          "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
+          "sha": "ffa342eae5cd984d76e230e02ecbd7163936e236",
+          "lastSyncedAt": "2026-11-10T09:29:27.982Z"
         }
       ]
     },
