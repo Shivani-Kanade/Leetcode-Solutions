@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-10T06:44:52.542Z",
+  "updatedAt": "2026-11-10T09:10:08.869Z",
   "problems": [
     {
       "frontendId": "215",
@@ -44,6 +44,26 @@
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "7c7c332549a4b32860d3eaa3e0f7a417ce74a963",
           "lastSyncedAt": "2026-10-20T13:06:53.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0973-k-closest-points-to-origin.java",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.java",
+          "sha": "a4512d5e3a4af53f4ba84b4db0c65e1816a7f150",
+          "lastSyncedAt": "2026-11-10T09:10:08.869Z"
         }
       ]
     }
