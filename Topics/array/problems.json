@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T09:34:54.686Z",
+  "updatedAt": "2026-11-10T09:55:02.426Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "7c7c332549a4b32860d3eaa3e0f7a417ce74a963",
           "lastSyncedAt": "2026-10-20T13:06:53.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0347-top-k-frequent-elements.java",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
+          "sha": "f2cc206b7fa2028830448cf1bffe4b487307fb06",
+          "lastSyncedAt": "2026-11-10T09:55:02.426Z"
         }
       ]
     },
