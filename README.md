@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 19 | 25 | 2 |
+| 47 | 19 | 26 | 2 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
-| 2026-11-10 | 1 |
+| 2026-11-10 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 54% |
-| Tree | 25 | 54% |
-| Depth-First Search | 18 | 39% |
-| Array | 14 | 30% |
-| Hash Table | 13 | 28% |
-| Binary Search Tree | 10 | 22% |
+| Binary Tree | 25 | 53% |
+| Tree | 25 | 53% |
+| Depth-First Search | 18 | 38% |
+| Array | 15 | 32% |
+| Hash Table | 14 | 30% |
+| Binary Search Tree | 10 | 21% |
 | Breadth-First Search | 6 | 13% |
 | Math | 6 | 13% |
 | String | 6 | 13% |
-| Stack | 5 | 11% |
+| Sorting | 5 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -78,8 +78,9 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 6 |
 | [Tree](Topics/tree/) | 25 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
