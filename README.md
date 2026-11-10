@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 19 | 26 | 2 |
+| 48 | 19 | 27 | 2 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
-| 2026-11-10 | 2 |
+| 2026-11-10 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 53% |
-| Tree | 25 | 53% |
+| Binary Tree | 25 | 52% |
+| Tree | 25 | 52% |
 | Depth-First Search | 18 | 38% |
-| Array | 15 | 32% |
-| Hash Table | 14 | 30% |
+| Array | 15 | 31% |
+| Hash Table | 15 | 31% |
 | Binary Search Tree | 10 | 21% |
+| String | 7 | 15% |
 | Breadth-First Search | 6 | 13% |
 | Math | 6 | 13% |
-| String | 6 | 13% |
-| Sorting | 5 | 11% |
+| Sorting | 5 | 10% |
 
 ## Topics
 
@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 25 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Counting](Topics/counting/) | 3 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
@@ -64,7 +65,7 @@ Contains topicwise list of solved problems.
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -73,6 +74,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
@@ -80,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
