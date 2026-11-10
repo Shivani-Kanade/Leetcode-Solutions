@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T09:10:08.869Z",
+  "updatedAt": "2026-11-10T09:15:11.460Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,7 +183,7 @@
           "filename": "0973-k-closest-points-to-origin.java",
           "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.java",
           "sha": "a4512d5e3a4af53f4ba84b4db0c65e1816a7f150",
-          "lastSyncedAt": "2026-11-10T09:10:08.869Z"
+          "lastSyncedAt": "2026-11-10T09:15:11.460Z"
         }
       ]
     },
