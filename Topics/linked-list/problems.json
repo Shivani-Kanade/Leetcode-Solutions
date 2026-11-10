@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T12:09:42.263Z",
+  "updatedAt": "2026-11-10T05:42:06.520Z",
   "problems": [
     {
       "frontendId": "114",
@@ -24,6 +24,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "eabeeb3204acf734a5e85c6163ae94accf83d6e4",
           "lastSyncedAt": "2026-11-04T12:09:42.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "0138-copy-list-with-random-pointer/",
+      "readmePath": "0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0138-copy-list-with-random-pointer.java",
+          "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.java",
+          "sha": "15fcb8ca1c1918048c5688f9ed5ae42438d97173",
+          "lastSyncedAt": "2026-11-10T05:42:06.520Z"
         }
       ]
     },
