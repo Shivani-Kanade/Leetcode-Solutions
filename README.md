@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 19 | 29 | 2 |
+| 51 | 19 | 30 | 2 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
-| 2026-11-10 | 5 |
+| 2026-11-10 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 50% |
-| Tree | 25 | 50% |
-| Depth-First Search | 18 | 36% |
-| Array | 17 | 34% |
-| Hash Table | 15 | 30% |
+| Binary Tree | 25 | 49% |
+| Tree | 25 | 49% |
+| Array | 18 | 35% |
+| Depth-First Search | 18 | 35% |
+| Hash Table | 15 | 29% |
 | Binary Search Tree | 10 | 20% |
+| Sorting | 8 | 16% |
 | Math | 7 | 14% |
-| Sorting | 7 | 14% |
 | String | 7 | 14% |
 | Breadth-First Search | 6 | 12% |
 
@@ -50,10 +50,10 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 15 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -82,10 +82,10 @@ Contains topicwise list of solved problems.
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 7 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
