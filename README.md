@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 19 | 31 | 2 |
+| 53 | 20 | 31 | 2 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
-| 2026-11-10 | 7 |
+| 2026-11-10 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 48% |
-| Tree | 25 | 48% |
-| Array | 19 | 37% |
-| Depth-First Search | 18 | 35% |
-| Hash Table | 16 | 31% |
+| Binary Tree | 25 | 47% |
+| Tree | 25 | 47% |
+| Array | 20 | 38% |
+| Depth-First Search | 18 | 34% |
+| Hash Table | 16 | 30% |
 | Binary Search Tree | 10 | 19% |
 | Sorting | 9 | 17% |
 | Math | 7 | 13% |
 | String | 7 | 13% |
-| Breadth-First Search | 6 | 12% |
+| Breadth-First Search | 6 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 19 |
+| [Array](Topics/array/) | 20 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 16 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
