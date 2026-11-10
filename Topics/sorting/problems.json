@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-09T06:52:35.256Z",
+  "updatedAt": "2026-11-10T05:55:15.669Z",
   "problems": [
     {
       "frontendId": "242",
@@ -44,6 +44,26 @@
           "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.java",
           "sha": "089f4e44668efe7721c00cf206c378d36bc87b02",
           "lastSyncedAt": "2026-10-20T13:35:23.577Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "problemName": "1679-max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
+      "folderPath": "1679-max-number-of-k-sum-pairs/",
+      "readmePath": "1679-max-number-of-k-sum-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1679-max-number-of-k-sum-pairs.java",
+          "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
+          "sha": "3885d9dff64f104b5d76630a170231dc5ca24cb7",
+          "lastSyncedAt": "2026-11-10T05:55:15.669Z"
         }
       ]
     },
