@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-19T06:05:00.599Z",
+  "updatedAt": "2026-11-10T09:29:27.982Z",
   "problems": [
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "0658-find-k-closest-elements/",
+      "readmePath": "0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0658-find-k-closest-elements.java",
+          "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
+          "sha": "ffa342eae5cd984d76e230e02ecbd7163936e236",
+          "lastSyncedAt": "2026-11-10T09:29:27.982Z"
+        }
+      ]
+    },
     {
       "frontendId": "2089",
       "title": "Find Target Indices After Sorting Array",
