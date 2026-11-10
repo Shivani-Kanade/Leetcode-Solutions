@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-10T09:29:27.982Z",
+  "updatedAt": "2026-11-10T09:34:54.686Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,7 +63,7 @@
           "filename": "0658-find-k-closest-elements.java",
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
           "sha": "ffa342eae5cd984d76e230e02ecbd7163936e236",
-          "lastSyncedAt": "2026-11-10T09:29:27.982Z"
+          "lastSyncedAt": "2026-11-10T09:34:54.686Z"
         }
       ]
     }
