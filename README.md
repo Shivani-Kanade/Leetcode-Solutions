@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 19 | 30 | 2 |
+| 52 | 19 | 31 | 2 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
-| 2026-11-10 | 6 |
+| 2026-11-10 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 49% |
-| Tree | 25 | 49% |
-| Array | 18 | 35% |
+| Binary Tree | 25 | 48% |
+| Tree | 25 | 48% |
+| Array | 19 | 37% |
 | Depth-First Search | 18 | 35% |
-| Hash Table | 15 | 29% |
-| Binary Search Tree | 10 | 20% |
-| Sorting | 8 | 16% |
-| Math | 7 | 14% |
-| String | 7 | 14% |
+| Hash Table | 16 | 31% |
+| Binary Search Tree | 10 | 19% |
+| Sorting | 9 | 17% |
+| Math | 7 | 13% |
+| String | 7 | 13% |
 | Breadth-First Search | 6 | 12% |
 
 ## Topics
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
@@ -58,16 +58,17 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
-| [Counting](Topics/counting/) | 3 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 18 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 15 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
+| [Hash Table](Topics/hash-table/) | 16 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
@@ -78,12 +79,12 @@ Contains topicwise list of solved problems.
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 3 |
-| [Quickselect](Topics/quickselect/) | 2 |
+| [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 25 |
