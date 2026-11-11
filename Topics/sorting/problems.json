@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-10T09:55:02.426Z",
+  "updatedAt": "2026-11-11T08:02:30.595Z",
   "problems": [
     {
       "frontendId": "215",
@@ -44,6 +44,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "22c064cc64ddbc94caefa63f9b88de1b716c674d",
           "lastSyncedAt": "2026-11-07T16:14:52.216Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0295-find-median-from-data-stream.java",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.java",
+          "sha": "e3d9c13bcb12e6084823ce5fa4c503a10edbd882",
+          "lastSyncedAt": "2026-11-11T08:02:30.595Z"
         }
       ]
     },
