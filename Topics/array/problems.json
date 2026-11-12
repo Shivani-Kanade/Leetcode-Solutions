@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-10T10:18:20.816Z",
+  "updatedAt": "2026-11-12T15:27:26.607Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "2744-find-maximum-number-of-string-pairs/2744-find-maximum-number-of-string-pairs.java",
           "sha": "bf324939807ed864bdd9728b66de4cf348844cf1",
           "lastSyncedAt": "2026-11-07T15:42:29.210Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "problemName": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "folderPath": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "readmePath": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray.java",
+          "path": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.java",
+          "sha": "7efb32bccf5c11ea170af706d1b761efe0a0d8c1",
+          "lastSyncedAt": "2026-11-12T15:27:26.607Z"
         }
       ]
     }
