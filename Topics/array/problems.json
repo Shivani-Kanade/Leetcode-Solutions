@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T15:08:45.255Z",
+  "updatedAt": "2026-11-13T15:30:26.165Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
           "sha": "ffa342eae5cd984d76e230e02ecbd7163936e236",
           "lastSyncedAt": "2026-11-10T09:34:54.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0724-find-pivot-index.java",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.java",
+          "sha": "55e200419f6c6eadac6ebf0628a57088660b0c6f",
+          "lastSyncedAt": "2026-11-13T15:30:26.165Z"
         }
       ]
     },
