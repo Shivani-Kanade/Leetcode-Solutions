@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-13T15:40:47.212Z",
+  "updatedAt": "2026-11-13T15:42:19.182Z",
   "problems": [
     {
       "frontendId": "303",
@@ -103,7 +103,7 @@
           "filename": "2640-find-the-score-of-all-prefixes-of-an-array.java",
           "path": "2640-find-the-score-of-all-prefixes-of-an-array/2640-find-the-score-of-all-prefixes-of-an-array.java",
           "sha": "e56b1e24c561153eab19e6067f6054fb3ae5426c",
-          "lastSyncedAt": "2026-11-13T15:40:47.212Z"
+          "lastSyncedAt": "2026-11-13T15:42:19.182Z"
         }
       ]
     }
