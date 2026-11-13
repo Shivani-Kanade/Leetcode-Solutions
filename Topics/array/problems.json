@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T15:30:26.165Z",
+  "updatedAt": "2026-11-13T15:40:47.212Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "2442-count-number-of-distinct-integers-after-reverse-operations/2442-count-number-of-distinct-integers-after-reverse-operations.java",
           "sha": "593244f9e39ffece42e81fe9af52bff414f0f22a",
           "lastSyncedAt": "2026-11-07T15:29:30.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2640",
+      "title": "Find the Score of All Prefixes of an Array",
+      "slug": "find-the-score-of-all-prefixes-of-an-array",
+      "problemName": "2640-find-the-score-of-all-prefixes-of-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/",
+      "folderPath": "2640-find-the-score-of-all-prefixes-of-an-array/",
+      "readmePath": "2640-find-the-score-of-all-prefixes-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2640-find-the-score-of-all-prefixes-of-an-array.java",
+          "path": "2640-find-the-score-of-all-prefixes-of-an-array/2640-find-the-score-of-all-prefixes-of-an-array.java",
+          "sha": "e56b1e24c561153eab19e6067f6054fb3ae5426c",
+          "lastSyncedAt": "2026-11-13T15:40:47.212Z"
         }
       ]
     },
