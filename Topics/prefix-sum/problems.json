@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-13T14:51:11.972Z",
+  "updatedAt": "2026-11-13T15:08:45.255Z",
   "problems": [
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0303-range-sum-query-immutable.java",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
+          "sha": "778208597f79408b5206068f3518f3118039ef10",
+          "lastSyncedAt": "2026-11-13T15:08:45.255Z"
+        }
+      ]
+    },
     {
       "frontendId": "1480",
       "title": "Running Sum of 1d Array",
