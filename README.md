@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 22 | 31 | 3 |
+| 57 | 23 | 31 | 3 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 8 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
-| 2026-11-13 | 1 |
+| 2026-11-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 25 | 45% |
-| Tree | 25 | 45% |
-| Array | 22 | 39% |
+| Binary Tree | 25 | 44% |
+| Tree | 25 | 44% |
+| Array | 23 | 40% |
 | Depth-First Search | 18 | 32% |
-| Hash Table | 16 | 29% |
+| Hash Table | 16 | 28% |
 | Binary Search Tree | 10 | 18% |
 | Sorting | 10 | 18% |
-| Heap (Priority Queue) | 7 | 13% |
-| Math | 7 | 13% |
-| String | 7 | 13% |
+| Heap (Priority Queue) | 7 | 12% |
+| Math | 7 | 12% |
+| String | 7 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 18 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
