@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 25 | 33 | 3 |
+| 62 | 25 | 34 | 3 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 4 |
-| 2026-11-14 | 2 |
+| 2026-11-14 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 44% |
-| Binary Tree | 25 | 41% |
-| Tree | 25 | 41% |
-| Depth-First Search | 18 | 30% |
+| Array | 28 | 45% |
+| Binary Tree | 25 | 40% |
+| Tree | 25 | 40% |
+| Depth-First Search | 18 | 29% |
 | Hash Table | 16 | 26% |
 | Sorting | 11 | 18% |
 | Binary Search Tree | 10 | 16% |
+| Prefix Sum | 8 | 13% |
 | Heap (Priority Queue) | 7 | 11% |
 | Math | 7 | 11% |
-| Prefix Sum | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 3 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 7 |
+| [Prefix Sum](Topics/prefix-sum/) | 8 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
