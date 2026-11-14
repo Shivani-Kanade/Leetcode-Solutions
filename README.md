@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 24 | 33 | 3 |
+| 61 | 25 | 33 | 3 |
 
 ## Activity
 
@@ -28,32 +28,32 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 4 |
-| 2026-11-14 | 1 |
+| 2026-11-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 43% |
-| Binary Tree | 25 | 42% |
-| Tree | 25 | 42% |
+| Array | 27 | 44% |
+| Binary Tree | 25 | 41% |
+| Tree | 25 | 41% |
 | Depth-First Search | 18 | 30% |
-| Hash Table | 16 | 27% |
-| Binary Search Tree | 10 | 17% |
-| Sorting | 10 | 17% |
-| Heap (Priority Queue) | 7 | 12% |
-| Math | 7 | 12% |
-| String | 7 | 12% |
+| Hash Table | 16 | 26% |
+| Sorting | 11 | 18% |
+| Binary Search Tree | 10 | 16% |
+| Heap (Priority Queue) | 7 | 11% |
+| Math | 7 | 11% |
+| Prefix Sum | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -79,14 +79,14 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 6 |
+| [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 25 |
