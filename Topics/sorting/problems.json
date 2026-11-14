@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T08:04:24.523Z",
+  "updatedAt": "2026-11-14T05:41:39.045Z",
   "problems": [
     {
       "frontendId": "215",
@@ -204,6 +204,26 @@
           "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.java",
           "sha": "769c043109654877be7ebaea3e5f629c1a99fd09",
           "lastSyncedAt": "2026-11-09T06:52:35.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2389-longest-subsequence-with-limited-sum.java",
+          "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.java",
+          "sha": "551114ad441bc417af6c7e35a25f9b90842b51c5",
+          "lastSyncedAt": "2026-11-14T05:41:39.045Z"
         }
       ]
     }
