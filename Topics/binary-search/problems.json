@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-10T09:34:54.686Z",
+  "updatedAt": "2026-11-14T05:41:39.045Z",
   "problems": [
     {
       "frontendId": "658",
@@ -44,6 +44,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
           "sha": "941d947ef280c07df8ea44140d0e763d387d5d17",
           "lastSyncedAt": "2026-10-19T06:05:00.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2389-longest-subsequence-with-limited-sum.java",
+          "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.java",
+          "sha": "551114ad441bc417af6c7e35a25f9b90842b51c5",
+          "lastSyncedAt": "2026-11-14T05:41:39.045Z"
         }
       ]
     }
