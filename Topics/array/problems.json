@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T09:05:57.772Z",
+  "updatedAt": "2026-11-15T09:06:38.137Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,7 +383,7 @@
           "filename": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
           "path": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
           "sha": "0b4e0a1142eafd7fe57a7217b963330d01a51080",
-          "lastSyncedAt": "2026-11-15T09:05:57.772Z"
+          "lastSyncedAt": "2026-11-15T09:06:38.137Z"
         }
       ]
     },
