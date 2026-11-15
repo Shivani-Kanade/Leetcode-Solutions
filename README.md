@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 25 | 34 | 3 |
+| 64 | 25 | 36 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 20 |
+| 7 days | 7 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-23 | 2 |
 | 2026-10-27 | 2 |
 | 2026-10-31 | 2 |
 | 2026-11-01 | 5 |
@@ -28,29 +27,30 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 4 |
-| 2026-11-14 | 3 |
+| 2026-11-14 | 4 |
+| 2026-11-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 45% |
-| Binary Tree | 25 | 40% |
-| Tree | 25 | 40% |
-| Depth-First Search | 18 | 29% |
-| Hash Table | 16 | 26% |
-| Sorting | 11 | 18% |
+| Array | 29 | 45% |
+| Binary Tree | 25 | 39% |
+| Tree | 25 | 39% |
+| Depth-First Search | 18 | 28% |
+| Hash Table | 17 | 27% |
+| Sorting | 11 | 17% |
 | Binary Search Tree | 10 | 16% |
-| Prefix Sum | 8 | 13% |
+| Prefix Sum | 10 | 16% |
+| String | 8 | 13% |
 | Heap (Priority Queue) | 7 | 11% |
-| Math | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 29 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 3 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 8 |
+| [Prefix Sum](Topics/prefix-sum/) | 10 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
