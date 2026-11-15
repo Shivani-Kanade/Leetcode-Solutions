@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 25 | 37 | 3 |
+| 66 | 25 | 38 | 3 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 1 |
 | 2026-11-13 | 4 |
 | 2026-11-14 | 4 |
-| 2026-11-15 | 2 |
+| 2026-11-15 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 46% |
+| Array | 31 | 47% |
 | Binary Tree | 25 | 38% |
 | Tree | 25 | 38% |
-| Depth-First Search | 18 | 28% |
+| Depth-First Search | 18 | 27% |
 | Hash Table | 17 | 26% |
+| Prefix Sum | 11 | 17% |
 | Sorting | 11 | 17% |
 | Binary Search Tree | 10 | 15% |
-| Prefix Sum | 10 | 15% |
 | String | 8 | 12% |
 | Heap (Priority Queue) | 7 | 11% |
 
@@ -50,10 +50,10 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -79,13 +79,13 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 10 |
+| [Prefix Sum](Topics/prefix-sum/) | 11 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 8 |
