@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-10T09:34:54.686Z",
+  "updatedAt": "2026-11-15T09:05:57.772Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
           "sha": "ffa342eae5cd984d76e230e02ecbd7163936e236",
           "lastSyncedAt": "2026-11-10T09:34:54.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1343",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "problemName": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "folderPath": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "readmePath": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
+          "path": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.java",
+          "sha": "0b4e0a1142eafd7fe57a7217b963330d01a51080",
+          "lastSyncedAt": "2026-11-15T09:05:57.772Z"
         }
       ]
     }
