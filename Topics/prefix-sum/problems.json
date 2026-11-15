@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-14T06:20:01.400Z",
+  "updatedAt": "2026-11-15T08:30:45.669Z",
   "problems": [
     {
       "frontendId": "238",
@@ -164,6 +164,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.java",
           "sha": "551114ad441bc417af6c7e35a25f9b90842b51c5",
           "lastSyncedAt": "2026-11-14T05:42:10.087Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2483",
+      "title": "Minimum Penalty for a Shop",
+      "slug": "minimum-penalty-for-a-shop",
+      "problemName": "2483-minimum-penalty-for-a-shop",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+      "folderPath": "2483-minimum-penalty-for-a-shop/",
+      "readmePath": "2483-minimum-penalty-for-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2483-minimum-penalty-for-a-shop.java",
+          "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.java",
+          "sha": "07b3feecbbf40c042fcc9f04d8e4e356c7f0d125",
+          "lastSyncedAt": "2026-11-15T08:30:45.669Z"
         }
       ]
     },
