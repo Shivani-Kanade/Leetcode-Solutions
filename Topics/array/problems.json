@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T09:38:22.620Z",
+  "updatedAt": "2026-11-15T09:39:32.337Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,7 +103,7 @@
           "filename": "0209-minimum-size-subarray-sum.java",
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "ee074631e136b802c80145c83d874a75bc2eda0a",
-          "lastSyncedAt": "2026-11-15T09:38:22.620Z"
+          "lastSyncedAt": "2026-11-15T09:39:32.337Z"
         }
       ]
     },
