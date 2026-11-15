@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T08:30:45.669Z",
+  "updatedAt": "2026-11-15T08:33:55.354Z",
   "problems": [
     {
       "frontendId": "3",
@@ -143,7 +143,7 @@
           "filename": "2483-minimum-penalty-for-a-shop.java",
           "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.java",
           "sha": "07b3feecbbf40c042fcc9f04d8e4e356c7f0d125",
-          "lastSyncedAt": "2026-11-15T08:30:45.669Z"
+          "lastSyncedAt": "2026-11-15T08:33:55.354Z"
         }
       ]
     },
