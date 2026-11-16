@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T09:41:11.275Z",
+  "updatedAt": "2026-11-16T07:54:41.508Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "cb78a1bb22256d5b5761e31c570d801646bc699e",
           "lastSyncedAt": "2026-11-13T14:51:11.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "problemName": "1493-longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+      "folderPath": "1493-longest-subarray-of-1s-after-deleting-one-element/",
+      "readmePath": "1493-longest-subarray-of-1s-after-deleting-one-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1493-longest-subarray-of-1s-after-deleting-one-element.java",
+          "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.java",
+          "sha": "8dc472c99855ddc7755cf8bbfbaa7cee7a9b9a36",
+          "lastSyncedAt": "2026-11-16T07:54:41.508Z"
         }
       ]
     },
