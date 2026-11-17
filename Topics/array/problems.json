@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T10:06:25.884Z",
+  "updatedAt": "2026-11-17T10:40:32.591Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "55e200419f6c6eadac6ebf0628a57088660b0c6f",
           "lastSyncedAt": "2026-11-13T15:30:26.165Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "0904-fruit-into-baskets/",
+      "readmePath": "0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0904-fruit-into-baskets.java",
+          "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.java",
+          "sha": "95279485619ecdf7a51bc5ad2b60778b7f9f10db",
+          "lastSyncedAt": "2026-11-17T10:40:32.591Z"
         }
       ]
     },
