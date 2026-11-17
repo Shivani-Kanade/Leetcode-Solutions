@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T07:54:41.508Z",
+  "updatedAt": "2026-11-17T10:06:25.884Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "1046-last-stone-weight/1046-last-stone-weight.java",
           "sha": "27af9055ab804fd3fa36b459fff381c6f4b7a83d",
           "lastSyncedAt": "2026-11-10T10:18:20.816Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1052",
+      "title": "Grumpy Bookstore Owner",
+      "slug": "grumpy-bookstore-owner",
+      "problemName": "1052-grumpy-bookstore-owner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/grumpy-bookstore-owner/",
+      "folderPath": "1052-grumpy-bookstore-owner/",
+      "readmePath": "1052-grumpy-bookstore-owner/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1052-grumpy-bookstore-owner.java",
+          "path": "1052-grumpy-bookstore-owner/1052-grumpy-bookstore-owner.java",
+          "sha": "666792481ffa8726ea6a69dafdb02aea5eff4ac6",
+          "lastSyncedAt": "2026-11-17T10:06:25.884Z"
         }
       ]
     },
