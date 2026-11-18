@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-15T09:41:11.275Z",
+  "updatedAt": "2026-11-18T04:47:19.598Z",
   "problems": [
     {
       "frontendId": "209",
@@ -124,6 +124,26 @@
           "path": "1109-corporate-flight-bookings/1109-corporate-flight-bookings.java",
           "sha": "628932cf8067d0da576d36bb989524138d25e8bb",
           "lastSyncedAt": "2026-11-14T05:56:39.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "1248-count-number-of-nice-subarrays/",
+      "readmePath": "1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1248-count-number-of-nice-subarrays.java",
+          "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
+          "sha": "0e321b5d697eb0f99e832b6fe4cba432e7f6c223",
+          "lastSyncedAt": "2026-11-18T04:47:19.598Z"
         }
       ]
     },
