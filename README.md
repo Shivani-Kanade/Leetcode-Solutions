@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 25 | 42 | 3 |
+| 71 | 26 | 42 | 3 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 1 |
 | 2026-11-17 | 2 |
-| 2026-11-18 | 1 |
+| 2026-11-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 50% |
-| Binary Tree | 25 | 36% |
-| Tree | 25 | 36% |
+| Array | 35 | 49% |
+| Binary Tree | 25 | 35% |
+| Tree | 25 | 35% |
 | Hash Table | 19 | 27% |
-| Depth-First Search | 18 | 26% |
+| Depth-First Search | 18 | 25% |
 | Prefix Sum | 12 | 17% |
-| Sorting | 11 | 16% |
+| Sorting | 11 | 15% |
 | Binary Search Tree | 10 | 14% |
+| Math | 9 | 13% |
 | Sliding Window | 9 | 13% |
-| Math | 8 | 11% |
 
 ## Topics
 
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -75,8 +75,9 @@ Contains topicwise list of solved problems.
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -84,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 11 |
