@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-18T05:59:49.894Z",
+  "updatedAt": "2026-11-18T06:21:47.487Z",
   "problems": [
     {
       "frontendId": "509",
@@ -24,6 +24,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "00abe3985bee1c04f1588ef361d4c3b0674f4891",
           "lastSyncedAt": "2026-11-18T05:59:49.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0746-min-cost-climbing-stairs.java",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.java",
+          "sha": "027afce7b9a3985d082e10cd004bed352bf3cfac",
+          "lastSyncedAt": "2026-11-18T06:21:47.487Z"
         }
       ]
     },
