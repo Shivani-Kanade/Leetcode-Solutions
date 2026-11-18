@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-12T15:40:52.617Z",
+  "updatedAt": "2026-11-18T04:47:19.598Z",
   "problems": [
     {
       "frontendId": "9",
@@ -104,6 +104,26 @@
           "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.java",
           "sha": "a4512d5e3a4af53f4ba84b4db0c65e1816a7f150",
           "lastSyncedAt": "2026-11-10T09:15:11.460Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "1248-count-number-of-nice-subarrays/",
+      "readmePath": "1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1248-count-number-of-nice-subarrays.java",
+          "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
+          "sha": "0e321b5d697eb0f99e832b6fe4cba432e7f6c223",
+          "lastSyncedAt": "2026-11-18T04:47:19.598Z"
         }
       ]
     },
