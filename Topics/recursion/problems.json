@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-09T06:52:35.256Z",
+  "updatedAt": "2026-11-18T05:56:43.991Z",
   "problems": [
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0509-fibonacci-number.java",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.java",
+          "sha": "00abe3985bee1c04f1588ef361d4c3b0674f4891",
+          "lastSyncedAt": "2026-11-18T05:56:43.991Z"
+        }
+      ]
+    },
     {
       "frontendId": "2094",
       "title": "Finding 3-Digit Even Numbers",
