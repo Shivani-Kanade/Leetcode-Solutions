@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 25 | 41 | 3 |
+| 70 | 25 | 42 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 23 |
+| 10 days | 10 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-01 | 5 |
 | 2026-11-02 | 4 |
 | 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 1 |
 | 2026-11-17 | 2 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 49% |
+| Array | 35 | 50% |
 | Binary Tree | 25 | 36% |
 | Tree | 25 | 36% |
+| Hash Table | 19 | 27% |
 | Depth-First Search | 18 | 26% |
-| Hash Table | 18 | 26% |
-| Prefix Sum | 11 | 16% |
+| Prefix Sum | 12 | 17% |
 | Sorting | 11 | 16% |
 | Binary Search Tree | 10 | 14% |
-| Sliding Window | 8 | 12% |
-| String | 8 | 12% |
+| Sliding Window | 9 | 13% |
+| Math | 8 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
@@ -70,23 +70,23 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 18 |
+| [Hash Table](Topics/hash-table/) | 19 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 11 |
+| [Prefix Sum](Topics/prefix-sum/) | 12 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 8 |
