@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-17T10:40:32.591Z",
+  "updatedAt": "2026-11-18T04:47:19.598Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "1052-grumpy-bookstore-owner/1052-grumpy-bookstore-owner.java",
           "sha": "666792481ffa8726ea6a69dafdb02aea5eff4ac6",
           "lastSyncedAt": "2026-11-17T10:06:25.884Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "1248-count-number-of-nice-subarrays/",
+      "readmePath": "1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1248-count-number-of-nice-subarrays.java",
+          "path": "1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.java",
+          "sha": "0e321b5d697eb0f99e832b6fe4cba432e7f6c223",
+          "lastSyncedAt": "2026-11-18T04:47:19.598Z"
         }
       ]
     },
