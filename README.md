@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 27 | 43 | 3 |
+| 74 | 27 | 44 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 10 days | 24 |
+| 11 days | 11 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-02 | 4 |
 | 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 1 |
 | 2026-11-17 | 2 |
 | 2026-11-18 | 4 |
+| 2026-11-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 51% |
+| Array | 37 | 50% |
 | Binary Tree | 25 | 34% |
 | Tree | 25 | 34% |
 | Hash Table | 19 | 26% |
-| Depth-First Search | 18 | 25% |
+| Depth-First Search | 18 | 24% |
 | Prefix Sum | 12 | 16% |
 | Sorting | 11 | 15% |
 | Binary Search Tree | 10 | 14% |
-| Math | 9 | 12% |
+| Math | 10 | 14% |
 | Sliding Window | 9 | 12% |
 
 ## Topics
@@ -59,6 +59,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
@@ -66,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -75,7 +76,7 @@ Contains topicwise list of solved problems.
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
