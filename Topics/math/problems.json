@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-18T05:59:49.894Z",
+  "updatedAt": "2026-11-19T06:32:35.258Z",
   "problems": [
     {
       "frontendId": "9",
@@ -64,6 +64,26 @@
           "path": "0029-divide-two-integers/0029-divide-two-integers.java",
           "sha": "76c987a033830820db4f04b8ca72e65a94c203c1",
           "lastSyncedAt": "2026-11-12T15:40:52.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0062-unique-paths.java",
+          "path": "0062-unique-paths/0062-unique-paths.java",
+          "sha": "ffe3e908ce7b4dcbd7aeb643ab4910568711b4b9",
+          "lastSyncedAt": "2026-11-19T06:32:35.258Z"
         }
       ]
     },
