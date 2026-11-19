@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 27 | 45 | 3 |
+| 76 | 27 | 46 | 3 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 1 |
 | 2026-11-17 | 2 |
 | 2026-11-18 | 4 |
-| 2026-11-19 | 2 |
+| 2026-11-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 51% |
+| Array | 39 | 51% |
 | Binary Tree | 25 | 33% |
 | Tree | 25 | 33% |
 | Hash Table | 19 | 25% |
 | Depth-First Search | 18 | 24% |
 | Prefix Sum | 12 | 16% |
-| Sorting | 11 | 15% |
+| Sorting | 11 | 14% |
 | Binary Search Tree | 10 | 13% |
 | Math | 10 | 13% |
 | Sliding Window | 9 | 12% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
