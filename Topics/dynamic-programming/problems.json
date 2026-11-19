@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-18T07:06:54.355Z",
+  "updatedAt": "2026-11-19T06:32:35.258Z",
   "problems": [
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0062-unique-paths.java",
+          "path": "0062-unique-paths/0062-unique-paths.java",
+          "sha": "ffe3e908ce7b4dcbd7aeb643ab4910568711b4b9",
+          "lastSyncedAt": "2026-11-19T06:32:35.258Z"
+        }
+      ]
+    },
     {
       "frontendId": "198",
       "title": "House Robber",
