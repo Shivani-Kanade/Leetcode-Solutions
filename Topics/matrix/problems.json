@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-27T15:26:27.641Z",
+  "updatedAt": "2026-11-19T07:12:48.313Z",
   "problems": [
     {
       "frontendId": "37",
@@ -24,6 +24,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.java",
           "sha": "18fa3b8fdc0e5ad8e21f7ceccdae827d6027ec34",
           "lastSyncedAt": "2026-10-27T15:26:27.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "64",
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "problemName": "0064-minimum-path-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+      "folderPath": "0064-minimum-path-sum/",
+      "readmePath": "0064-minimum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0064-minimum-path-sum.java",
+          "path": "0064-minimum-path-sum/0064-minimum-path-sum.java",
+          "sha": "0d24e4b12785621cb0d3ad5ad1491b8e0d727270",
+          "lastSyncedAt": "2026-11-19T07:12:48.313Z"
         }
       ]
     }
