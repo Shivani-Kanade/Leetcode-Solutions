@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-19T07:18:39.228Z",
+  "updatedAt": "2026-11-19T07:33:20.238Z",
   "problems": [
     {
       "frontendId": "37",
@@ -44,6 +44,26 @@
           "path": "0064-minimum-path-sum/0064-minimum-path-sum.java",
           "sha": "0d24e4b12785621cb0d3ad5ad1491b8e0d727270",
           "lastSyncedAt": "2026-11-19T07:18:39.228Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1277",
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "problemName": "1277-count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+      "folderPath": "1277-count-square-submatrices-with-all-ones/",
+      "readmePath": "1277-count-square-submatrices-with-all-ones/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1277-count-square-submatrices-with-all-ones.java",
+          "path": "1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.java",
+          "sha": "da50a7781b31b431e2030b64566bc96defc2e64c",
+          "lastSyncedAt": "2026-11-19T07:33:20.238Z"
         }
       ]
     }
