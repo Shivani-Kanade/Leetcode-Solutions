@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-20T04:53:36.323Z",
+  "updatedAt": "2026-11-20T06:08:14.742Z",
   "problems": [
     {
       "frontendId": "9",
@@ -84,6 +84,26 @@
           "path": "0062-unique-paths/0062-unique-paths.java",
           "sha": "ffe3e908ce7b4dcbd7aeb643ab4910568711b4b9",
           "lastSyncedAt": "2026-11-19T06:39:51.861Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "problemName": "0279-perfect-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-squares/",
+      "folderPath": "0279-perfect-squares/",
+      "readmePath": "0279-perfect-squares/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0279-perfect-squares.java",
+          "path": "0279-perfect-squares/0279-perfect-squares.java",
+          "sha": "06c5cec89987e2f600d919f47838f5c9d6e6b86e",
+          "lastSyncedAt": "2026-11-20T06:08:14.742Z"
         }
       ]
     },
