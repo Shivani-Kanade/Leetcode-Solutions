@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 27 | 46 | 3 |
+| 77 | 27 | 47 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 25 |
+| 12 days | 12 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-03 | 2 |
 | 2026-11-04 | 5 |
 | 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-17 | 2 |
 | 2026-11-18 | 4 |
 | 2026-11-19 | 3 |
+| 2026-11-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 39 | 51% |
-| Binary Tree | 25 | 33% |
-| Tree | 25 | 33% |
+| Binary Tree | 25 | 32% |
+| Tree | 25 | 32% |
 | Hash Table | 19 | 25% |
-| Depth-First Search | 18 | 24% |
+| Depth-First Search | 18 | 23% |
 | Prefix Sum | 12 | 16% |
+| Math | 11 | 14% |
 | Sorting | 11 | 14% |
 | Binary Search Tree | 10 | 13% |
-| Math | 10 | 13% |
 | Sliding Window | 9 | 12% |
 
 ## Topics
@@ -57,9 +57,10 @@ Contains topicwise list of solved problems.
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
+| [Complete Knapsack](Topics/complete-knapsack/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
@@ -67,16 +68,17 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 19 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
