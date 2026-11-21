@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 27 | 48 | 3 |
+| 79 | 27 | 49 | 3 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-18 | 4 |
 | 2026-11-19 | 3 |
 | 2026-11-20 | 1 |
-| 2026-11-21 | 1 |
+| 2026-11-21 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 51% |
+| Array | 41 | 52% |
 | Binary Tree | 25 | 32% |
 | Tree | 25 | 32% |
 | Hash Table | 19 | 24% |
@@ -43,15 +43,16 @@ Contains topicwise list of solved problems.
 | Math | 11 | 14% |
 | Sorting | 11 | 14% |
 | Binary Search Tree | 10 | 13% |
-| Dynamic Programming | 9 | 12% |
+| Dynamic Programming | 10 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
+| [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 40 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Array](Topics/array/) | 41 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
@@ -68,14 +69,14 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 19 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
-| [Knapsack Problem](Topics/knapsack-problem/) | 2 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 12 |
