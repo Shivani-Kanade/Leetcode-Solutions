@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T06:13:53.401Z",
+  "updatedAt": "2026-11-21T06:27:02.711Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.java",
           "sha": "32d4043bb14f0425bbdfceac9211082980a64013",
           "lastSyncedAt": "2026-11-01T09:00:08.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "0494-target-sum/",
+      "readmePath": "0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0494-target-sum.java",
+          "path": "0494-target-sum/0494-target-sum.java",
+          "sha": "7466e9749d3546f9d84a08f8541165383ceef45f",
+          "lastSyncedAt": "2026-11-21T06:27:02.711Z"
         }
       ]
     },
