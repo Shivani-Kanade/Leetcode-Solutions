@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T07:33:20.238Z",
+  "updatedAt": "2026-11-21T06:10:12.294Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "778208597f79408b5206068f3518f3118039ef10",
           "lastSyncedAt": "2026-11-13T15:08:45.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0322-coin-change.java",
+          "path": "0322-coin-change/0322-coin-change.java",
+          "sha": "7a2514e07ef92955d37f712d9dabc6c42749eb1f",
+          "lastSyncedAt": "2026-11-21T06:10:12.294Z"
         }
       ]
     },
