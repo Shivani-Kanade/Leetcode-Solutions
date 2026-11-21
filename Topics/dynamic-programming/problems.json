@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T06:13:53.401Z",
+  "updatedAt": "2026-11-21T06:27:02.711Z",
   "problems": [
     {
       "frontendId": "62",
@@ -104,6 +104,26 @@
           "path": "0322-coin-change/0322-coin-change.java",
           "sha": "7a2514e07ef92955d37f712d9dabc6c42749eb1f",
           "lastSyncedAt": "2026-11-21T06:13:53.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "0494-target-sum/",
+      "readmePath": "0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0494-target-sum.java",
+          "path": "0494-target-sum/0494-target-sum.java",
+          "sha": "7466e9749d3546f9d84a08f8541165383ceef45f",
+          "lastSyncedAt": "2026-11-21T06:27:02.711Z"
         }
       ]
     },
