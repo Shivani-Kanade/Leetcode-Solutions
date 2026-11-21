@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T06:10:12.294Z",
+  "updatedAt": "2026-11-21T06:13:53.401Z",
   "problems": [
     {
       "frontendId": "62",
@@ -103,7 +103,7 @@
           "filename": "0322-coin-change.java",
           "path": "0322-coin-change/0322-coin-change.java",
           "sha": "7a2514e07ef92955d37f712d9dabc6c42749eb1f",
-          "lastSyncedAt": "2026-11-21T06:10:12.294Z"
+          "lastSyncedAt": "2026-11-21T06:13:53.401Z"
         }
       ]
     },
