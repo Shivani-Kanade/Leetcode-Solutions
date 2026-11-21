@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-20T06:08:14.742Z",
+  "updatedAt": "2026-11-21T06:10:12.294Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0279-perfect-squares/0279-perfect-squares.java",
           "sha": "06c5cec89987e2f600d919f47838f5c9d6e6b86e",
           "lastSyncedAt": "2026-11-20T06:08:14.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0322-coin-change.java",
+          "path": "0322-coin-change/0322-coin-change.java",
+          "sha": "7a2514e07ef92955d37f712d9dabc6c42749eb1f",
+          "lastSyncedAt": "2026-11-21T06:10:12.294Z"
         }
       ]
     }
