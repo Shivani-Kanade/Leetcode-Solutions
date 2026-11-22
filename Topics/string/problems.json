@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T10:51:34.535Z",
+  "updatedAt": "2026-11-22T10:56:01.849Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,7 +103,7 @@
           "filename": "0516-longest-palindromic-subsequence.java",
           "path": "0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.java",
           "sha": "22695619cbac5c976180f144015b6551c02bb95c",
-          "lastSyncedAt": "2026-11-22T10:51:34.535Z"
+          "lastSyncedAt": "2026-11-22T10:56:01.849Z"
         }
       ]
     },
