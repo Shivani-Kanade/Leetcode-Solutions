@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T06:27:02.711Z",
+  "updatedAt": "2026-11-22T10:37:31.908Z",
   "problems": [
     {
       "frontendId": "62",
@@ -164,6 +164,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.java",
           "sha": "027afce7b9a3985d082e10cd004bed352bf3cfac",
           "lastSyncedAt": "2026-11-18T06:32:23.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "1143-longest-common-subsequence/",
+      "readmePath": "1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1143-longest-common-subsequence.java",
+          "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.java",
+          "sha": "d8b15dc7834042e528beb12f196182f374c8ee91",
+          "lastSyncedAt": "2026-11-22T10:37:31.908Z"
         }
       ]
     },
