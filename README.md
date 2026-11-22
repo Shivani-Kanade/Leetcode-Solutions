@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -78,6 +78,7 @@ Contains topicwise list of solved problems.
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Linked List](Topics/linked-list/) | 3 |
+| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -94,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
