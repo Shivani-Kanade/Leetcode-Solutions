@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-22T10:37:31.908Z",
+  "updatedAt": "2026-11-22T10:39:49.720Z",
   "problems": [
     {
       "frontendId": "62",
@@ -183,7 +183,7 @@
           "filename": "1143-longest-common-subsequence.java",
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.java",
           "sha": "d8b15dc7834042e528beb12f196182f374c8ee91",
-          "lastSyncedAt": "2026-11-22T10:37:31.908Z"
+          "lastSyncedAt": "2026-11-22T10:39:49.720Z"
         }
       ]
     },
