@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 27 | 49 | 3 |
+| 80 | 28 | 49 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 27 |
+| 14 days | 14 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-07 | 3 |
 | 2026-11-09 | 5 |
 | 2026-11-10 | 8 |
 | 2026-11-11 | 1 |
@@ -29,14 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-11-19 | 3 |
 | 2026-11-20 | 1 |
 | 2026-11-21 | 2 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 41 | 52% |
-| Binary Tree | 25 | 32% |
-| Tree | 25 | 32% |
+| Array | 41 | 51% |
+| Binary Tree | 25 | 31% |
+| Tree | 25 | 31% |
 | Hash Table | 19 | 24% |
 | Depth-First Search | 18 | 23% |
 | Prefix Sum | 12 | 15% |
@@ -94,7 +94,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
