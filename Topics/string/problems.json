@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T10:35:27.672Z",
+  "updatedAt": "2026-11-22T10:37:31.908Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "9c304811ac4e2f1bfa5fb58360f665a9cbf32ba8",
           "lastSyncedAt": "2026-10-20T13:21:47.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "1143-longest-common-subsequence/",
+      "readmePath": "1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1143-longest-common-subsequence.java",
+          "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.java",
+          "sha": "d8b15dc7834042e528beb12f196182f374c8ee91",
+          "lastSyncedAt": "2026-11-22T10:37:31.908Z"
         }
       ]
     },
