@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T05:15:07.698Z",
+  "updatedAt": "2026-11-23T05:31:37.192Z",
   "problems": [
     {
       "frontendId": "62",
@@ -44,6 +44,26 @@
           "path": "0064-minimum-path-sum/0064-minimum-path-sum.java",
           "sha": "0d24e4b12785621cb0d3ad5ad1491b8e0d727270",
           "lastSyncedAt": "2026-11-19T07:18:39.228Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "0072-edit-distance/",
+      "readmePath": "0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0072-edit-distance.java",
+          "path": "0072-edit-distance/0072-edit-distance.java",
+          "sha": "49b90abb5d0b85a55cc657fe0cc2f8877995200f",
+          "lastSyncedAt": "2026-11-23T05:31:37.192Z"
         }
       ]
     },
