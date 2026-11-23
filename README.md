@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 28 | 50 | 3 |
+| 82 | 28 | 50 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 28 |
+| 15 days | 15 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-09 | 5 |
 | 2026-11-10 | 8 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-20 | 1 |
 | 2026-11-21 | 2 |
 | 2026-11-22 | 2 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 41 | 51% |
-| Binary Tree | 25 | 31% |
-| Tree | 25 | 31% |
+| Array | 41 | 50% |
+| Binary Tree | 25 | 30% |
+| Tree | 25 | 30% |
 | Hash Table | 19 | 23% |
 | Depth-First Search | 18 | 22% |
+| Dynamic Programming | 12 | 15% |
 | Prefix Sum | 12 | 15% |
-| Dynamic Programming | 11 | 14% |
-| Math | 11 | 14% |
-| Sorting | 11 | 14% |
-| Binary Search Tree | 10 | 12% |
+| Math | 11 | 13% |
+| Sorting | 11 | 13% |
+| String | 11 | 13% |
 
 ## Topics
 
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
