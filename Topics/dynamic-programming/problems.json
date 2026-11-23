@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-22T10:56:01.849Z",
+  "updatedAt": "2026-11-23T05:08:30.387Z",
   "problems": [
     {
       "frontendId": "62",
@@ -224,6 +224,26 @@
           "path": "1277-count-square-submatrices-with-all-ones/1277-count-square-submatrices-with-all-ones.java",
           "sha": "da50a7781b31b431e2030b64566bc96defc2e64c",
           "lastSyncedAt": "2026-11-19T07:33:20.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1312",
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "problemName": "1312-minimum-insertion-steps-to-make-a-string-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+      "folderPath": "1312-minimum-insertion-steps-to-make-a-string-palindrome/",
+      "readmePath": "1312-minimum-insertion-steps-to-make-a-string-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1312-minimum-insertion-steps-to-make-a-string-palindrome.java",
+          "path": "1312-minimum-insertion-steps-to-make-a-string-palindrome/1312-minimum-insertion-steps-to-make-a-string-palindrome.java",
+          "sha": "dce62790092458610bea45d6bf66307de79d3b4f",
+          "lastSyncedAt": "2026-11-23T05:08:30.387Z"
         }
       ]
     },
