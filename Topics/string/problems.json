@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T05:15:07.698Z",
+  "updatedAt": "2026-11-23T05:31:37.192Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0012-integer-to-roman/0012-integer-to-roman.java",
           "sha": "ac6af4d586e8195bad50ab5cee5a59845418499a",
           "lastSyncedAt": "2026-10-18T08:42:23.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "0072-edit-distance/",
+      "readmePath": "0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0072-edit-distance.java",
+          "path": "0072-edit-distance/0072-edit-distance.java",
+          "sha": "49b90abb5d0b85a55cc657fe0cc2f8877995200f",
+          "lastSyncedAt": "2026-11-23T05:31:37.192Z"
         }
       ]
     },
