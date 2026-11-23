@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 28 | 50 | 4 |
+| 83 | 28 | 51 | 4 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-20 | 1 |
 | 2026-11-21 | 2 |
 | 2026-11-22 | 2 |
-| 2026-11-23 | 1 |
+| 2026-11-23 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 41 | 50% |
+| Array | 41 | 49% |
 | Binary Tree | 25 | 30% |
 | Tree | 25 | 30% |
 | Hash Table | 19 | 23% |
 | Depth-First Search | 18 | 22% |
-| Dynamic Programming | 12 | 15% |
-| Prefix Sum | 12 | 15% |
+| Dynamic Programming | 13 | 16% |
+| Prefix Sum | 12 | 14% |
+| String | 12 | 14% |
 | Math | 11 | 13% |
 | Sorting | 11 | 13% |
-| String | 11 | 13% |
 
 ## Topics
 
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 14 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Linked List](Topics/linked-list/) | 3 |
-| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
+| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
