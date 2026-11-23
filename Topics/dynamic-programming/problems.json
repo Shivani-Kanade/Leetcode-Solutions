@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T05:08:30.387Z",
+  "updatedAt": "2026-11-23T05:14:37.608Z",
   "problems": [
     {
       "frontendId": "62",
@@ -164,6 +164,26 @@
           "path": "0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.java",
           "sha": "22695619cbac5c976180f144015b6551c02bb95c",
           "lastSyncedAt": "2026-11-22T10:56:01.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "583",
+      "title": "Delete Operation for Two Strings",
+      "slug": "delete-operation-for-two-strings",
+      "problemName": "0583-delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "folderPath": "0583-delete-operation-for-two-strings/",
+      "readmePath": "0583-delete-operation-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0583-delete-operation-for-two-strings.java",
+          "path": "0583-delete-operation-for-two-strings/0583-delete-operation-for-two-strings.java",
+          "sha": "d9f3748a9b7b8b5e6efd3c66621d4a74e136b740",
+          "lastSyncedAt": "2026-11-23T05:14:37.608Z"
         }
       ]
     },
