@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 86 | 29 | 52 | 5 |
+| 87 | 29 | 53 | 5 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 2 |
 | 2026-11-22 | 2 |
 | 2026-11-23 | 3 |
-| 2026-11-24 | 2 |
+| 2026-11-24 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 49% |
+| Array | 42 | 48% |
 | Binary Tree | 25 | 29% |
 | Tree | 25 | 29% |
 | Hash Table | 19 | 22% |
 | Depth-First Search | 18 | 21% |
-| Dynamic Programming | 15 | 17% |
-| String | 14 | 16% |
+| Dynamic Programming | 16 | 18% |
+| String | 15 | 17% |
 | Math | 12 | 14% |
 | Prefix Sum | 12 | 14% |
 | Sorting | 11 | 13% |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -97,5 +97,5 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 15 |
 | [Tree](Topics/tree/) | 25 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
