@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-24T10:18:50.348Z",
+  "updatedAt": "2026-11-24T10:26:37.617Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0005-longest-palindromic-substring.java",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
+          "sha": "ad4383245a3af6046248f7452c1a62b6aecd19ea",
+          "lastSyncedAt": "2026-11-24T10:26:37.617Z"
+        }
+      ]
+    },
     {
       "frontendId": "62",
       "title": "Unique Paths",
