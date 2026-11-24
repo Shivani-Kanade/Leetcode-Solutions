@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T05:41:57.611Z",
+  "updatedAt": "2026-11-24T09:45:35.575Z",
   "problems": [
     {
       "frontendId": "62",
@@ -224,6 +224,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.java",
           "sha": "027afce7b9a3985d082e10cd004bed352bf3cfac",
           "lastSyncedAt": "2026-11-18T06:32:23.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1092",
+      "title": "Shortest Common Supersequence ",
+      "slug": "shortest-common-supersequence",
+      "problemName": "1092-shortest-common-supersequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "folderPath": "1092-shortest-common-supersequence/",
+      "readmePath": "1092-shortest-common-supersequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1092-shortest-common-supersequence.java",
+          "path": "1092-shortest-common-supersequence/1092-shortest-common-supersequence.java",
+          "sha": "ced546b081d2dd8fe2420b635921b086434a376f",
+          "lastSyncedAt": "2026-11-24T09:45:35.575Z"
         }
       ]
     },
