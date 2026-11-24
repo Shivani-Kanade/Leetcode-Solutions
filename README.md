@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 85 | 29 | 52 | 4 |
+| 86 | 29 | 52 | 5 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 2 |
 | 2026-11-22 | 2 |
 | 2026-11-23 | 3 |
-| 2026-11-24 | 1 |
+| 2026-11-24 | 2 |
 
 ## Top Tags
 
@@ -39,8 +39,8 @@ Contains topicwise list of solved problems.
 | Tree | 25 | 29% |
 | Hash Table | 19 | 22% |
 | Depth-First Search | 18 | 21% |
-| Dynamic Programming | 14 | 16% |
-| String | 13 | 15% |
+| Dynamic Programming | 15 | 17% |
+| String | 14 | 16% |
 | Math | 12 | 14% |
 | Prefix Sum | 12 | 14% |
 | Sorting | 11 | 13% |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Linked List](Topics/linked-list/) | 3 |
-| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
+| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 10 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 14 |
+| [String](Topics/string/) | 15 |
 | [Tree](Topics/tree/) | 25 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
