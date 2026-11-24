@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-09T06:52:35.256Z",
+  "updatedAt": "2026-11-24T07:09:36.130Z",
   "problems": [
     {
       "frontendId": "2094",
@@ -24,6 +24,26 @@
           "path": "2094-finding-3-digit-even-numbers/2094-finding-3-digit-even-numbers.java",
           "sha": "769c043109654877be7ebaea3e5f629c1a99fd09",
           "lastSyncedAt": "2026-11-09T06:52:35.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "3411-maximum-subarray-with-equal-products/",
+      "readmePath": "3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3411-maximum-subarray-with-equal-products.java",
+          "path": "3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.java",
+          "sha": "3612cb6fba4d5e0e0ba9fc840e0d28f582519ca1",
+          "lastSyncedAt": "2026-11-24T07:09:36.130Z"
         }
       ]
     }
