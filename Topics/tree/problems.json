@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T12:09:42.263Z",
+  "updatedAt": "2026-11-24T10:34:48.436Z",
   "problems": [
     {
       "frontendId": "94",
@@ -403,7 +403,7 @@
           "filename": "0543-diameter-of-binary-tree.java",
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.java",
           "sha": "e44a45ad16facbd72b3bc36020239abf7108695b",
-          "lastSyncedAt": "2026-11-01T09:07:38.749Z"
+          "lastSyncedAt": "2026-11-24T10:34:48.436Z"
         }
       ]
     },
