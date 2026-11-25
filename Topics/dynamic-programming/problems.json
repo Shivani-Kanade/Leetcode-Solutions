@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-25T13:48:53.747Z",
+  "updatedAt": "2026-11-25T14:10:35.124Z",
   "problems": [
     {
       "frontendId": "5",
@@ -424,6 +424,26 @@
           "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.java",
           "sha": "8dc472c99855ddc7755cf8bbfbaa7cee7a9b9a36",
           "lastSyncedAt": "2026-11-16T07:54:41.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1671",
+      "title": "Minimum Number of Removals to Make Mountain Array",
+      "slug": "minimum-number-of-removals-to-make-mountain-array",
+      "problemName": "1671-minimum-number-of-removals-to-make-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+      "folderPath": "1671-minimum-number-of-removals-to-make-mountain-array/",
+      "readmePath": "1671-minimum-number-of-removals-to-make-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "path": "1671-minimum-number-of-removals-to-make-mountain-array/1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "sha": "784f772a1b819ba49ed2334d8122cb1ff1782a44",
+          "lastSyncedAt": "2026-11-25T14:10:35.124Z"
         }
       ]
     }
