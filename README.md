@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 29 | 55 | 6 |
+| 91 | 29 | 56 | 6 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-22 | 2 |
 | 2026-11-23 | 3 |
 | 2026-11-24 | 4 |
-| 2026-11-25 | 2 |
+| 2026-11-25 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 47% |
+| Array | 43 | 47% |
 | Binary Tree | 27 | 30% |
 | Tree | 27 | 30% |
+| Dynamic Programming | 20 | 22% |
 | Depth-First Search | 19 | 21% |
-| Dynamic Programming | 19 | 21% |
 | Hash Table | 19 | 21% |
 | String | 16 | 18% |
 | Math | 13 | 14% |
@@ -51,10 +51,10 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 43 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 27 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -79,6 +79,7 @@ Contains topicwise list of solved problems.
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 3 |
+| [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 14 |
