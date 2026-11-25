@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "longest-increasing-subsequence",
+    "name": "Longest Increasing Subsequence",
+    "tagId": "122079"
+  },
+  "updatedAt": "2026-11-25T13:48:53.747Z",
+  "problems": [
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0300-longest-increasing-subsequence.java",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
+          "sha": "0ded1f61b6a90f134fdbc915a4f92f0b0b7d2bcf",
+          "lastSyncedAt": "2026-11-25T13:48:53.747Z"
+        }
+      ]
+    }
+  ]
+}
