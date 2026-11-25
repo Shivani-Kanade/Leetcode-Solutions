@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 29 | 54 | 6 |
+| 90 | 29 | 55 | 6 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-22 | 2 |
 | 2026-11-23 | 3 |
 | 2026-11-24 | 4 |
-| 2026-11-25 | 1 |
+| 2026-11-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 42 | 47% |
-| Binary Tree | 26 | 29% |
-| Tree | 26 | 29% |
+| Binary Tree | 27 | 30% |
+| Tree | 27 | 30% |
 | Depth-First Search | 19 | 21% |
+| Dynamic Programming | 19 | 21% |
 | Hash Table | 19 | 21% |
-| Dynamic Programming | 18 | 20% |
 | String | 16 | 18% |
-| Math | 12 | 13% |
+| Math | 13 | 14% |
 | Prefix Sum | 12 | 13% |
-| Sorting | 11 | 12% |
+| Binary Search Tree | 11 | 12% |
 
 ## Topics
 
@@ -55,8 +55,8 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 10 |
-| [Binary Tree](Topics/binary-tree/) | 26 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 11 |
+| [Binary Tree](Topics/binary-tree/) | 27 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 13 |
+| [Math](Topics/math/) | 14 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -97,6 +97,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 16 |
-| [Tree](Topics/tree/) | 26 |
+| [Tree](Topics/tree/) | 27 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
