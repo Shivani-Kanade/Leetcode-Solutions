@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 29 | 54 | 5 |
+| 89 | 29 | 54 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 16 days | 16 days | 30 |
+| 17 days | 17 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 4 |
 | 2026-11-14 | 4 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-22 | 2 |
 | 2026-11-23 | 3 |
 | 2026-11-24 | 4 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 48% |
-| Binary Tree | 25 | 28% |
-| Tree | 25 | 28% |
-| Hash Table | 19 | 22% |
-| Depth-First Search | 18 | 20% |
-| Dynamic Programming | 17 | 19% |
+| Array | 42 | 47% |
+| Binary Tree | 26 | 29% |
+| Tree | 26 | 29% |
+| Depth-First Search | 19 | 21% |
+| Hash Table | 19 | 21% |
+| Dynamic Programming | 18 | 20% |
 | String | 16 | 18% |
-| Math | 12 | 14% |
-| Prefix Sum | 12 | 14% |
-| Sorting | 11 | 13% |
+| Math | 12 | 13% |
+| Prefix Sum | 12 | 13% |
+| Sorting | 11 | 12% |
 
 ## Topics
 
@@ -56,7 +56,7 @@ Contains topicwise list of solved problems.
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
-| [Binary Tree](Topics/binary-tree/) | 25 |
+| [Binary Tree](Topics/binary-tree/) | 26 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -65,11 +65,11 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 18 |
+| [Depth-First Search](Topics/depth-first-search/) | 19 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
+| [DP on Trees](Topics/dp-on-trees/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 4 |
@@ -97,6 +97,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 16 |
-| [Tree](Topics/tree/) | 25 |
+| [Tree](Topics/tree/) | 26 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
