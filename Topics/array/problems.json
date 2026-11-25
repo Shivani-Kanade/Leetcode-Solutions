@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-25T13:48:53.747Z",
+  "updatedAt": "2026-11-25T14:10:35.124Z",
   "problems": [
     {
       "frontendId": "1",
@@ -664,6 +664,26 @@
           "path": "1497-check-if-array-pairs-are-divisible-by-k/1497-check-if-array-pairs-are-divisible-by-k.java",
           "sha": "7c671f1bb424ee133ba8a9a0db3a261eeb7e211f",
           "lastSyncedAt": "2026-11-09T08:13:18.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1671",
+      "title": "Minimum Number of Removals to Make Mountain Array",
+      "slug": "minimum-number-of-removals-to-make-mountain-array",
+      "problemName": "1671-minimum-number-of-removals-to-make-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+      "folderPath": "1671-minimum-number-of-removals-to-make-mountain-array/",
+      "readmePath": "1671-minimum-number-of-removals-to-make-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "path": "1671-minimum-number-of-removals-to-make-mountain-array/1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "sha": "784f772a1b819ba49ed2334d8122cb1ff1782a44",
+          "lastSyncedAt": "2026-11-25T14:10:35.124Z"
         }
       ]
     },
