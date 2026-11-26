@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 93 | 29 | 56 | 8 |
+| 94 | 29 | 57 | 8 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 3 |
 | 2026-11-24 | 4 |
 | 2026-11-25 | 4 |
-| 2026-11-26 | 1 |
+| 2026-11-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 48% |
+| Array | 46 | 49% |
 | Binary Tree | 27 | 29% |
 | Tree | 27 | 29% |
-| Dynamic Programming | 22 | 24% |
+| Dynamic Programming | 22 | 23% |
 | Depth-First Search | 19 | 20% |
 | Hash Table | 19 | 20% |
 | String | 16 | 17% |
@@ -51,8 +51,8 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 45 |
-| [Backtracking](Topics/backtracking/) | 3 |
+| [Array](Topics/array/) | 46 |
+| [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
