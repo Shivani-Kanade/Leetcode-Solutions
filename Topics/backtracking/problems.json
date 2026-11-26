@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-26T07:17:19.913Z",
+  "updatedAt": "2026-11-26T07:48:50.141Z",
   "problems": [
     {
       "frontendId": "37",
@@ -44,6 +44,26 @@
           "path": "0046-permutations/0046-permutations.java",
           "sha": "3445e9c10e65e7674544200df1412ed3f7283ca7",
           "lastSyncedAt": "2026-11-26T07:04:36.684Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0051-n-queens.java",
+          "path": "0051-n-queens/0051-n-queens.java",
+          "sha": "b62d8c765d1cc6670b33b034e99d01638a08ffa5",
+          "lastSyncedAt": "2026-11-26T07:48:50.141Z"
         }
       ]
     },
