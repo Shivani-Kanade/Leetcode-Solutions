@@ -5,7 +5,7 @@
     "name": "Algorithm X",
     "tagId": "95488"
   },
-  "updatedAt": "2026-10-27T15:26:27.641Z",
+  "updatedAt": "2026-11-26T07:48:50.141Z",
   "problems": [
     {
       "frontendId": "37",
@@ -24,6 +24,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.java",
           "sha": "18fa3b8fdc0e5ad8e21f7ceccdae827d6027ec34",
           "lastSyncedAt": "2026-10-27T15:26:27.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0051-n-queens.java",
+          "path": "0051-n-queens/0051-n-queens.java",
+          "sha": "b62d8c765d1cc6670b33b034e99d01638a08ffa5",
+          "lastSyncedAt": "2026-11-26T07:48:50.141Z"
         }
       ]
     }
