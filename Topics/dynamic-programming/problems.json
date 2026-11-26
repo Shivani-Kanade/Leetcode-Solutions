@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-25T14:10:35.124Z",
+  "updatedAt": "2026-11-26T05:01:22.754Z",
   "problems": [
     {
       "frontendId": "5",
@@ -424,6 +424,26 @@
           "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.java",
           "sha": "8dc472c99855ddc7755cf8bbfbaa7cee7a9b9a36",
           "lastSyncedAt": "2026-11-16T07:54:41.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1547",
+      "title": "Minimum Cost to Cut a Stick",
+      "slug": "minimum-cost-to-cut-a-stick",
+      "problemName": "1547-minimum-cost-to-cut-a-stick",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+      "folderPath": "1547-minimum-cost-to-cut-a-stick/",
+      "readmePath": "1547-minimum-cost-to-cut-a-stick/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1547-minimum-cost-to-cut-a-stick.java",
+          "path": "1547-minimum-cost-to-cut-a-stick/1547-minimum-cost-to-cut-a-stick.java",
+          "sha": "4c50fd3096d21d445ae83a99267738053011fbf2",
+          "lastSyncedAt": "2026-11-26T05:01:22.754Z"
         }
       ]
     },
