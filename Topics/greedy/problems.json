@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-25T14:10:35.124Z",
+  "updatedAt": "2026-11-27T06:29:36.265Z",
   "problems": [
     {
       "frontendId": "402",
@@ -44,6 +44,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "9c304811ac4e2f1bfa5fb58360f665a9cbf32ba8",
           "lastSyncedAt": "2026-10-20T13:21:47.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1005",
+      "title": "Maximize Sum Of Array After K Negations",
+      "slug": "maximize-sum-of-array-after-k-negations",
+      "problemName": "1005-maximize-sum-of-array-after-k-negations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/",
+      "folderPath": "1005-maximize-sum-of-array-after-k-negations/",
+      "readmePath": "1005-maximize-sum-of-array-after-k-negations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1005-maximize-sum-of-array-after-k-negations.java",
+          "path": "1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.java",
+          "sha": "26e2488e332d780520feddb2a9d88f5b49ee136d",
+          "lastSyncedAt": "2026-11-27T06:29:36.265Z"
         }
       ]
     },
