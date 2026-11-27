@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T15:39:56.384Z",
+  "updatedAt": "2026-11-27T15:41:21.852Z",
   "problems": [
     {
       "frontendId": "1",
@@ -463,7 +463,7 @@
           "filename": "0781-rabbits-in-forest.java",
           "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.java",
           "sha": "e7188273a858c41c79db6a2e801d87e8ed516d74",
-          "lastSyncedAt": "2026-11-27T15:39:56.384Z"
+          "lastSyncedAt": "2026-11-27T15:41:21.852Z"
         }
       ]
     },
