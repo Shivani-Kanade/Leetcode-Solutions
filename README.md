@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 100 | 31 | 60 | 9 |
+| 101 | 31 | 61 | 9 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-24 | 4 |
 | 2026-11-25 | 4 |
 | 2026-11-26 | 4 |
-| 2026-11-27 | 4 |
+| 2026-11-27 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 51% |
+| Array | 52 | 51% |
 | Binary Tree | 27 | 27% |
 | Tree | 27 | 27% |
 | Dynamic Programming | 22 | 22% |
 | Hash Table | 20 | 20% |
 | Depth-First Search | 19 | 19% |
+| Sorting | 16 | 16% |
 | String | 16 | 16% |
-| Sorting | 15 | 15% |
 | Math | 14 | 14% |
 | Prefix Sum | 12 | 12% |
 
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 51 |
+| [Array](Topics/array/) | 52 |
 | [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -91,11 +91,12 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 12 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
+| [Quicksort](Topics/quicksort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 10 |
-| [Sorting](Topics/sorting/) | 15 |
+| [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 16 |
 | [Timsort](Topics/timsort/) | 1 |
