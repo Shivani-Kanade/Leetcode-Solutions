@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 99 | 31 | 59 | 9 |
+| 100 | 31 | 60 | 9 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-24 | 4 |
 | 2026-11-25 | 4 |
 | 2026-11-26 | 4 |
-| 2026-11-27 | 3 |
+| 2026-11-27 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 51% |
+| Array | 51 | 51% |
 | Binary Tree | 27 | 27% |
 | Tree | 27 | 27% |
 | Dynamic Programming | 22 | 22% |
+| Hash Table | 20 | 20% |
 | Depth-First Search | 19 | 19% |
-| Hash Table | 19 | 19% |
 | String | 16 | 16% |
 | Sorting | 15 | 15% |
-| Math | 13 | 13% |
+| Math | 14 | 14% |
 | Prefix Sum | 12 | 12% |
 
 ## Topics
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -72,8 +72,8 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 19 |
+| [Greedy](Topics/greedy/) | 9 |
+| [Hash Table](Topics/hash-table/) | 20 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
@@ -82,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
