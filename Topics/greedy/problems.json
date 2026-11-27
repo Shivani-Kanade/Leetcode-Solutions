@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-27T07:04:46.622Z",
+  "updatedAt": "2026-11-27T07:18:55.260Z",
   "problems": [
     {
       "frontendId": "402",
@@ -44,6 +44,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "9c304811ac4e2f1bfa5fb58360f665a9cbf32ba8",
           "lastSyncedAt": "2026-10-20T13:21:47.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0881-boats-to-save-people.java",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.java",
+          "sha": "4ee29b0cc83bdfa58d3e5674e41fffb1151897ec",
+          "lastSyncedAt": "2026-11-27T07:18:55.260Z"
         }
       ]
     },
