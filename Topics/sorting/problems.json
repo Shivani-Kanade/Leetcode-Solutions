@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-27T06:29:36.265Z",
+  "updatedAt": "2026-11-27T07:04:46.622Z",
   "problems": [
     {
       "frontendId": "215",
@@ -204,6 +204,26 @@
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
           "sha": "3885d9dff64f104b5d76630a170231dc5ca24cb7",
           "lastSyncedAt": "2026-11-10T05:55:15.669Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1710",
+      "title": "Maximum Units on a Truck",
+      "slug": "maximum-units-on-a-truck",
+      "problemName": "1710-maximum-units-on-a-truck",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-units-on-a-truck/",
+      "folderPath": "1710-maximum-units-on-a-truck/",
+      "readmePath": "1710-maximum-units-on-a-truck/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1710-maximum-units-on-a-truck.java",
+          "path": "1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.java",
+          "sha": "0fd9f3db82c32da718209b273875e8a935693d58",
+          "lastSyncedAt": "2026-11-27T07:04:46.622Z"
         }
       ]
     },
