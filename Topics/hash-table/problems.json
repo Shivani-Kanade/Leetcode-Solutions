@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-27T05:49:38.554Z",
+  "updatedAt": "2026-11-27T15:39:56.384Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "f566d5268558b62f1d1b51b8aacf92c3434ac38a",
           "lastSyncedAt": "2026-11-14T06:20:01.400Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "781",
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "problemName": "0781-rabbits-in-forest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+      "folderPath": "0781-rabbits-in-forest/",
+      "readmePath": "0781-rabbits-in-forest/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0781-rabbits-in-forest.java",
+          "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.java",
+          "sha": "e7188273a858c41c79db6a2e801d87e8ed516d74",
+          "lastSyncedAt": "2026-11-27T15:39:56.384Z"
         }
       ]
     },
