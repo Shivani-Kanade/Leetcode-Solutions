@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-27T05:46:02.927Z",
+  "updatedAt": "2026-11-27T05:47:41.213Z",
   "problems": [
     {
       "frontendId": "37",
@@ -23,7 +23,7 @@
           "filename": "0037-sudoku-solver.java",
           "path": "0037-sudoku-solver/0037-sudoku-solver.java",
           "sha": "18fa3b8fdc0e5ad8e21f7ceccdae827d6027ec34",
-          "lastSyncedAt": "2026-11-27T05:46:02.927Z"
+          "lastSyncedAt": "2026-11-27T05:47:41.213Z"
         }
       ]
     },
