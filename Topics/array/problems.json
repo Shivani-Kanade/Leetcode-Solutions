@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T15:41:21.852Z",
+  "updatedAt": "2026-11-27T15:55:37.869Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0051-n-queens/0051-n-queens.java",
           "sha": "b62d8c765d1cc6670b33b034e99d01638a08ffa5",
           "lastSyncedAt": "2026-11-26T07:48:50.141Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0056-merge-intervals.java",
+          "path": "0056-merge-intervals/0056-merge-intervals.java",
+          "sha": "f64ce9bdf02f6dc7f899a73f23ebeed81a3c5aaa",
+          "lastSyncedAt": "2026-11-27T15:55:37.869Z"
         }
       ]
     },
