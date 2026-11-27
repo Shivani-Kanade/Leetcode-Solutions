@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-25T07:40:17.209Z",
+  "updatedAt": "2026-11-27T15:39:56.384Z",
   "problems": [
     {
       "frontendId": "9",
@@ -164,6 +164,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "00abe3985bee1c04f1588ef361d4c3b0674f4891",
           "lastSyncedAt": "2026-11-20T04:53:36.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "781",
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "problemName": "0781-rabbits-in-forest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+      "folderPath": "0781-rabbits-in-forest/",
+      "readmePath": "0781-rabbits-in-forest/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0781-rabbits-in-forest.java",
+          "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.java",
+          "sha": "e7188273a858c41c79db6a2e801d87e8ed516d74",
+          "lastSyncedAt": "2026-11-27T15:39:56.384Z"
         }
       ]
     },
