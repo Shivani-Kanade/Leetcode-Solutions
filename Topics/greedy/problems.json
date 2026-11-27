@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-27T06:29:36.265Z",
+  "updatedAt": "2026-11-27T07:04:46.622Z",
   "problems": [
     {
       "frontendId": "402",
@@ -104,6 +104,26 @@
           "path": "1671-minimum-number-of-removals-to-make-mountain-array/1671-minimum-number-of-removals-to-make-mountain-array.java",
           "sha": "784f772a1b819ba49ed2334d8122cb1ff1782a44",
           "lastSyncedAt": "2026-11-25T14:10:35.124Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1710",
+      "title": "Maximum Units on a Truck",
+      "slug": "maximum-units-on-a-truck",
+      "problemName": "1710-maximum-units-on-a-truck",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-units-on-a-truck/",
+      "folderPath": "1710-maximum-units-on-a-truck/",
+      "readmePath": "1710-maximum-units-on-a-truck/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1710-maximum-units-on-a-truck.java",
+          "path": "1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.java",
+          "sha": "0fd9f3db82c32da718209b273875e8a935693d58",
+          "lastSyncedAt": "2026-11-27T07:04:46.622Z"
         }
       ]
     },
