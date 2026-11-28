@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-28T07:48:53.724Z",
+  "updatedAt": "2026-11-28T07:53:18.796Z",
   "problems": [
     {
       "frontendId": "56",
@@ -104,6 +104,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
           "sha": "f2cc206b7fa2028830448cf1bffe4b487307fb06",
           "lastSyncedAt": "2026-11-10T09:55:02.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0435-non-overlapping-intervals.java",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
+          "sha": "d7bbc4b388fb4348486c5cb9e4a57bb739566ca3",
+          "lastSyncedAt": "2026-11-28T07:53:18.796Z"
         }
       ]
     },
