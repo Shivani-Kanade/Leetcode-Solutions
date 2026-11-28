@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-28T07:48:53.724Z",
+  "updatedAt": "2026-11-28T07:53:18.796Z",
   "problems": [
     {
       "frontendId": "402",
@@ -24,6 +24,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.java",
           "sha": "c1a27caa715cb49b9550333557f66dc783ea43c4",
           "lastSyncedAt": "2026-10-19T06:36:03.216Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0435-non-overlapping-intervals.java",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
+          "sha": "d7bbc4b388fb4348486c5cb9e4a57bb739566ca3",
+          "lastSyncedAt": "2026-11-28T07:53:18.796Z"
         }
       ]
     },
