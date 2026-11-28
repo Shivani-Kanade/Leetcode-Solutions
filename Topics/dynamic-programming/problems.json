@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-26T06:23:03.286Z",
+  "updatedAt": "2026-11-28T07:53:18.796Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "0322-coin-change/0322-coin-change.java",
           "sha": "7a2514e07ef92955d37f712d9dabc6c42749eb1f",
           "lastSyncedAt": "2026-11-21T06:13:53.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0435-non-overlapping-intervals.java",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
+          "sha": "d7bbc4b388fb4348486c5cb9e4a57bb739566ca3",
+          "lastSyncedAt": "2026-11-28T07:53:18.796Z"
         }
       ]
     },
