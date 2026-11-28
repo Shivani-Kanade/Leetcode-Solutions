@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 101 | 31 | 61 | 9 |
+| 102 | 31 | 62 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 19 days | 19 days | 33 |
+| 20 days | 20 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-14 | 4 |
 | 2026-11-15 | 3 |
 | 2026-11-16 | 1 |
 | 2026-11-17 | 2 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-25 | 4 |
 | 2026-11-26 | 4 |
 | 2026-11-27 | 5 |
+| 2026-11-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 52 | 51% |
-| Binary Tree | 27 | 27% |
-| Tree | 27 | 27% |
+| Array | 53 | 52% |
+| Binary Tree | 27 | 26% |
+| Tree | 27 | 26% |
 | Dynamic Programming | 22 | 22% |
 | Hash Table | 20 | 20% |
 | Depth-First Search | 19 | 19% |
-| Sorting | 16 | 16% |
+| Sorting | 17 | 17% |
 | String | 16 | 16% |
 | Math | 14 | 14% |
 | Prefix Sum | 12 | 12% |
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 52 |
+| [Array](Topics/array/) | 53 |
 | [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 9 |
+| [Greedy](Topics/greedy/) | 10 |
 | [Hash Table](Topics/hash-table/) | 20 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -96,7 +96,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 10 |
-| [Sorting](Topics/sorting/) | 16 |
+| [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 16 |
 | [Timsort](Topics/timsort/) | 1 |
