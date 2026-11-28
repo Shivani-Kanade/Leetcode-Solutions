@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-27T15:55:37.869Z",
+  "updatedAt": "2026-11-28T07:48:02.083Z",
   "problems": [
     {
       "frontendId": "56",
@@ -104,6 +104,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
           "sha": "f2cc206b7fa2028830448cf1bffe4b487307fb06",
           "lastSyncedAt": "2026-11-10T09:55:02.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "problemName": "0452-minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+      "folderPath": "0452-minimum-number-of-arrows-to-burst-balloons/",
+      "readmePath": "0452-minimum-number-of-arrows-to-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0452-minimum-number-of-arrows-to-burst-balloons.java",
+          "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.java",
+          "sha": "9f30d68144910ac2323c7e89f2f01af5c64340f4",
+          "lastSyncedAt": "2026-11-28T07:48:02.083Z"
         }
       ]
     },
