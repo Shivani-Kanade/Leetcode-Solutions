@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 104 | 31 | 64 | 9 |
+| 105 | 32 | 64 | 9 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-25 | 4 |
 | 2026-11-26 | 4 |
 | 2026-11-27 | 5 |
-| 2026-11-28 | 3 |
+| 2026-11-28 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 53% |
+| Array | 56 | 53% |
 | Binary Tree | 27 | 26% |
 | Tree | 27 | 26% |
 | Dynamic Programming | 24 | 23% |
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 | Sorting | 19 | 18% |
 | String | 16 | 15% |
 | Math | 14 | 13% |
-| Greedy | 12 | 12% |
+| Greedy | 12 | 11% |
 
 ## Topics
 
@@ -51,13 +51,13 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 55 |
+| [Array](Topics/array/) | 56 |
 | [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 27 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
